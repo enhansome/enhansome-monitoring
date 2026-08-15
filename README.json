@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T15:07:16Z",
+            "last_commit": "2026-08-14T18:22:21Z",
             "owner": "mickem",
             "repo": "nscp",
             "stars": 287
@@ -999,7 +999,7 @@
             "last_commit": "2025-05-20T07:22:42Z",
             "owner": "statsd",
             "repo": "statsd",
-            "stars": 18068
+            "stars": 18070
           }
         },
         {
@@ -1417,7 +1417,7 @@
             "last_commit": "2026-08-14T15:43:56Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17750
+            "stars": 17754
           }
         },
         {
@@ -1431,7 +1431,7 @@
             "last_commit": "2026-08-08T07:43:51Z",
             "owner": "prometheus",
             "repo": "node_exporter",
-            "stars": 13697
+            "stars": 13699
           }
         },
         {
@@ -1490,10 +1490,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T15:39:48Z",
+            "last_commit": "2026-08-15T14:57:11Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65737
+            "stars": 65708
           }
         },
         {
@@ -1504,10 +1504,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T22:08:46Z",
+            "last_commit": "2026-08-14T22:21:14Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31693
+            "stars": 31698
           }
         },
         {
@@ -1521,7 +1521,7 @@
             "last_commit": "2026-08-14T16:01:45Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17528
+            "stars": 17535
           }
         },
         {
@@ -1532,10 +1532,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T02:53:25Z",
+            "last_commit": "2026-08-14T17:44:43Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7360
+            "stars": 7361
           }
         },
         {
@@ -1549,7 +1549,7 @@
             "last_commit": "2024-12-12T20:03:34Z",
             "owner": "OpenTSDB",
             "repo": "opentsdb",
-            "stars": 5066
+            "stars": 5067
           }
         },
         {
@@ -1580,10 +1580,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:03:33Z",
+            "last_commit": "2026-08-15T12:29:51Z",
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76309
+            "stars": 76279
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-08-10T15:38:52Z",
             "owner": "influxdata",
             "repo": "kapacitor",
-            "stars": 2374
+            "stars": 2373
           }
         }
       ],
@@ -1628,10 +1628,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:03:33Z",
+            "last_commit": "2026-08-15T12:29:51Z",
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76309
+            "stars": 76279
           }
         },
         {
@@ -1642,10 +1642,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:53:47Z",
+            "last_commit": "2026-08-15T14:29:29Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21238
+            "stars": 21244
           }
         },
         {
@@ -1697,7 +1697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:03:59.015Z",
+    "last_updated": "2026-08-15T16:35:57.894Z",
     "original_repository": "crazy-canux/awesome-monitoring",
     "original_repository_sha": "e0b56bd47393fbabded8b030e50314841e24c644",
     "enhanced_repository": "enhansome/enhansome-monitoring",
