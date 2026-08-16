@@ -646,7 +646,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T18:22:21Z",
+            "last_commit": "2026-08-16T15:53:04Z",
             "owner": "mickem",
             "repo": "nscp",
             "stars": 287
@@ -1493,7 +1493,7 @@
             "last_commit": "2026-08-15T14:57:11Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65708
+            "stars": 65714
           }
         },
         {
@@ -1507,7 +1507,7 @@
             "last_commit": "2026-08-14T22:21:14Z",
             "owner": "influxdata",
             "repo": "influxdb",
-            "stars": 31698
+            "stars": 31701
           }
         },
         {
@@ -1518,10 +1518,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T16:01:45Z",
+            "last_commit": "2026-08-15T20:49:00Z",
             "owner": "VictoriaMetrics",
             "repo": "VictoriaMetrics",
-            "stars": 17535
+            "stars": 17544
           }
         },
         {
@@ -1535,7 +1535,7 @@
             "last_commit": "2026-08-14T17:44:43Z",
             "owner": "apache",
             "repo": "hertzbeat",
-            "stars": 7361
+            "stars": 7362
           }
         },
         {
@@ -1549,7 +1549,7 @@
             "last_commit": "2024-12-12T20:03:34Z",
             "owner": "OpenTSDB",
             "repo": "opentsdb",
-            "stars": 5067
+            "stars": 5068
           }
         },
         {
@@ -1563,7 +1563,7 @@
             "last_commit": "2026-03-05T22:27:54Z",
             "owner": "kairosdb",
             "repo": "kairosdb",
-            "stars": 1761
+            "stars": 1762
           }
         }
       ],
@@ -1580,10 +1580,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T12:29:51Z",
+            "last_commit": "2026-08-16T13:34:02Z",
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76279
+            "stars": 76294
           }
         },
         {
@@ -1594,7 +1594,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T06:25:26Z",
+            "last_commit": "2026-08-16T16:33:03Z",
             "owner": "prometheus",
             "repo": "alertmanager",
             "stars": 8580
@@ -1611,7 +1611,7 @@
             "last_commit": "2026-08-10T15:38:52Z",
             "owner": "influxdata",
             "repo": "kapacitor",
-            "stars": 2373
+            "stars": 2374
           }
         }
       ],
@@ -1628,10 +1628,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T12:29:51Z",
+            "last_commit": "2026-08-16T13:34:02Z",
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76279
+            "stars": 76294
           }
         },
         {
@@ -1642,10 +1642,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T14:29:29Z",
+            "last_commit": "2026-08-16T14:44:07Z",
             "owner": "elastic",
             "repo": "kibana",
-            "stars": 21244
+            "stars": 21246
           }
         },
         {
@@ -1697,7 +1697,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:35:57.894Z",
+    "last_updated": "2026-08-16T16:36:51.839Z",
     "original_repository": "crazy-canux/awesome-monitoring",
     "original_repository_sha": "e0b56bd47393fbabded8b030e50314841e24c644",
     "enhanced_repository": "enhansome/enhansome-monitoring",
