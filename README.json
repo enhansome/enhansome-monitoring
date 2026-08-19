@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 25678869,
                 "language": "Perl",
-                "last_commit": "2026-08-19T12:13:56Z",
+                "last_commit": "2026-08-19T16:11:07Z",
                 "owner": "centreon",
                 "repo": "centreon-plugins",
                 "stars": 335
@@ -716,7 +716,7 @@
                     "archived": false,
                     "id": 15979175,
                     "language": "Shell",
-                    "last_commit": "2026-08-18T21:30:27Z",
+                    "last_commit": "2026-08-19T16:19:42Z",
                     "owner": "NagiosEnterprises",
                     "repo": "ncpa",
                     "stars": 207
@@ -731,7 +731,7 @@
                     "archived": false,
                     "id": 616668128,
                     "language": "Go",
-                    "last_commit": "2026-08-19T10:56:29Z",
+                    "last_commit": "2026-08-19T14:30:50Z",
                     "owner": "ConSol-Monitoring",
                     "repo": "snclient",
                     "stars": 75
@@ -1486,7 +1486,7 @@
                 "archived": false,
                 "id": 33258973,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:51:16Z",
+                "last_commit": "2026-08-19T16:27:33Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
                 "stars": 17757
@@ -1561,10 +1561,10 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:36:39Z",
+                "last_commit": "2026-08-19T16:36:01Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28760
+                "stars": 28762
               }
             },
             {
@@ -1594,7 +1594,7 @@
                 "last_commit": "2026-08-17T06:38:02Z",
                 "owner": "fluent",
                 "repo": "fluentd",
-                "stars": 13579
+                "stars": 13578
               }
             },
             {
@@ -1606,10 +1606,10 @@
                 "archived": false,
                 "id": 16554739,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:06:28Z",
+                "last_commit": "2026-08-19T16:16:15Z",
                 "owner": "elastic",
                 "repo": "beats",
-                "stars": 12639
+                "stars": 12640
               }
             },
             {
@@ -1624,7 +1624,7 @@
                 "last_commit": "2026-08-19T07:41:54Z",
                 "owner": "fluent",
                 "repo": "fluent-bit",
-                "stars": 8043
+                "stars": 8045
               }
             },
             {
@@ -1673,7 +1673,7 @@
                 "archived": false,
                 "id": 6838921,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:40:52Z",
+                "last_commit": "2026-08-19T14:50:45Z",
                 "owner": "prometheus",
                 "repo": "prometheus",
                 "stars": 65752
@@ -1763,10 +1763,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-19T12:34:19Z",
+                "last_commit": "2026-08-19T16:41:07Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77839
+                "stars": 77843
               }
             },
             {
@@ -1778,10 +1778,10 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-19T12:36:39Z",
+                "last_commit": "2026-08-19T16:36:01Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28760
+                "stars": 28762
               }
             },
             {
@@ -1793,7 +1793,7 @@
                 "archived": false,
                 "id": 236055696,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:18:18Z",
+                "last_commit": "2026-08-19T14:29:30Z",
                 "owner": "grafana",
                 "repo": "tempo",
                 "stars": 5442
@@ -1845,10 +1845,10 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:40:40Z",
+                "last_commit": "2026-08-19T16:36:09Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76305
+                "stars": 76306
               }
             },
             {
@@ -1897,10 +1897,10 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:40:40Z",
+                "last_commit": "2026-08-19T16:36:09Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76305
+                "stars": 76306
               }
             },
             {
@@ -1912,7 +1912,7 @@
                 "archived": false,
                 "id": 7833168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:40:38Z",
+                "last_commit": "2026-08-19T16:40:56Z",
                 "owner": "elastic",
                 "repo": "kibana",
                 "stars": 21251
@@ -1930,7 +1930,7 @@
                 "last_commit": "2026-08-11T08:39:57Z",
                 "owner": "influxdata",
                 "repo": "chronograf",
-                "stars": 1566
+                "stars": 1567
               }
             }
           ],
@@ -1943,7 +1943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:40:55.430Z",
+    "last_updated": "2026-08-19T16:41:15.482Z",
     "original_repository": "crazy-canux/awesome-monitoring",
     "original_repository_id": 59476603,
     "original_repository_sha": "e0b56bd47393fbabded8b030e50314841e24c644",
