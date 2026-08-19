@@ -1,1704 +1,1951 @@
 {
   "items": [
     {
-      "description": "Tranditional Data Center Monitoring tools.",
-      "items": [],
-      "title": "DC Monitoring"
-    },
-    {
       "description": "Monitoring tools based on nagios.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Centreon plugins github",
+              "description": "Centreon plugins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25678869,
+                "language": "Perl",
+                "last_commit": "2026-08-19T12:13:56Z",
+                "owner": "centreon",
+                "repo": "centreon-plugins",
+                "stars": 335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Centreon core github",
+              "description": "Centreon core written in C++.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19500078,
+                "language": "C++",
+                "last_commit": "2023-05-26T13:07:37Z",
+                "owner": "centreon-archive",
+                "repo": "centreon-engine",
+                "stars": 43
+              }
+            }
+          ],
+          "description": "Centreon is a network, system, applicative supervision and monitoring tool.",
+          "node_type": "group",
+          "title": "Centreon"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "monitoring-plugins perl",
+                  "description": "Official Perl module for plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2743597,
+                    "language": "Perl",
+                    "last_commit": "2021-02-02T18:25:35Z",
+                    "owner": "monitoring-plugins",
+                    "repo": "monitoring-plugin-perl",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "arguspy",
+                  "description": "A set of Python API for write your monitoring plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 67469765,
+                    "language": "Python",
+                    "last_commit": "2022-12-26T20:28:22Z",
+                    "owner": "crazy-canux",
+                    "repo": "arguspy",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Plugins API"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "check_hpasm.pl",
+                  "description": "For Hpasm.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509413,
+                    "language": "Perl",
+                    "last_commit": "2025-01-13T14:07:48Z",
+                    "owner": "lausser",
+                    "repo": "check_hpasm",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_fujitsu_health.pl",
+                  "description": "For fujitsu.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28093838,
+                    "language": "Perl",
+                    "last_commit": "2022-05-04T09:14:28Z",
+                    "owner": "lausser",
+                    "repo": "check_fujitsu_health",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Linux/Unix"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "check_raid.pl",
+                  "description": "For raid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4448139,
+                    "language": "Perl",
+                    "last_commit": "2024-06-27T13:48:01Z",
+                    "owner": "glensc",
+                    "repo": "nagios-plugin-check_raid",
+                    "stars": 144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_tl_health.pl",
+                  "description": "For tl.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13163862,
+                    "language": "Perl",
+                    "last_commit": "2023-02-10T14:55:39Z",
+                    "owner": "lausser",
+                    "repo": "check_tl_health",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_sstcam.pl",
+                  "description": "For sstcam.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 537637,
+                    "language": "Shell",
+                    "last_commit": "2010-02-26T17:54:17Z",
+                    "owner": "lausser",
+                    "repo": "check_sstcam",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Storage"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "check_vmware_esx.pl",
+                  "description": "For vmware.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11951286,
+                    "language": "Perl",
+                    "last_commit": "2023-07-12T08:43:35Z",
+                    "owner": "BaldMansMojo",
+                    "repo": "check_vmware_esx",
+                    "stars": 122
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_wmware_api.pl",
+                  "description": "For vmware.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60851493,
+                    "language": "Perl",
+                    "last_commit": "2020-02-06T07:28:32Z",
+                    "owner": "ITRS-Group",
+                    "repo": "system-addons-plugins-op5-check_vmware_api",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Virtualization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "check_postgres.pl",
+                  "description": "For postgres.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 196044,
+                    "language": "Perl",
+                    "last_commit": "2025-01-02T02:31:47Z",
+                    "owner": "bucardo",
+                    "repo": "check_postgres",
+                    "stars": 602
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_mongodb.py",
+                  "description": "For mongodb.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 713714,
+                    "language": "Python",
+                    "last_commit": "2025-11-03T03:28:35Z",
+                    "owner": "mzupan",
+                    "repo": "nagios-plugin-mongodb",
+                    "stars": 342
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_mssql_health.pl",
+                  "description": "For mssql.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 520575,
+                    "language": "Perl",
+                    "last_commit": "2026-07-21T08:28:33Z",
+                    "owner": "lausser",
+                    "repo": "check_mssql_health",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_oracle_health.pl",
+                  "description": "For oracle.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 520581,
+                    "language": "Perl",
+                    "last_commit": "2024-01-08T15:21:24Z",
+                    "owner": "lausser",
+                    "repo": "check_oracle_health",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_mysql_health.pl",
+                  "description": "For mysql.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 520567,
+                    "language": "Perl",
+                    "last_commit": "2023-02-27T10:50:17Z",
+                    "owner": "lausser",
+                    "repo": "check_mysql_health",
+                    "stars": 35
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_db2_health.pl",
+                  "description": "For db2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 520579,
+                    "language": "Perl",
+                    "last_commit": "2021-07-09T12:21:45Z",
+                    "owner": "lausser",
+                    "repo": "check_db2_health",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Database"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "check_logfiles.pl",
+                  "description": "For logfile.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 520583,
+                    "language": "Perl",
+                    "last_commit": "2025-12-15T15:09:37Z",
+                    "owner": "lausser",
+                    "repo": "check_logfiles",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_multi",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 720672,
+                    "language": "M4",
+                    "last_commit": "2020-10-17T08:14:42Z",
+                    "owner": "flackem",
+                    "repo": "check_multi",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_generic",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1290744,
+                    "language": "Perl",
+                    "last_commit": "2012-08-18T08:01:47Z",
+                    "owner": "flackem",
+                    "repo": "check_generic",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check events",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60961394,
+                    "language": "Perl",
+                    "last_commit": "2024-03-09T16:44:23Z",
+                    "owner": "pewo",
+                    "repo": "nagios-plugins",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Log"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "check_ssl_cert",
+                  "description": "For CA.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44599737,
+                    "language": "Shell",
+                    "last_commit": "2026-08-04T13:41:22Z",
+                    "owner": "matteocorti",
+                    "repo": "check_ssl_cert",
+                    "stars": 417
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios-plugins-rabbitmq",
+                  "description": "For rabbitmq.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1230056,
+                    "language": "Perl",
+                    "last_commit": "2024-01-04T07:45:11Z",
+                    "owner": "nagios-plugins-rabbitmq",
+                    "repo": "nagios-plugins-rabbitmq",
+                    "stars": 194
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_graphite_data.py",
+                  "description": "For graphite.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 2038795,
+                    "language": "Python",
+                    "last_commit": "2017-10-13T12:49:48Z",
+                    "owner": "etsy",
+                    "repo": "nagios_tools",
+                    "stars": 174
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_elasticsearch.py",
+                  "description": "For ES.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6895584,
+                    "language": "Python",
+                    "last_commit": "2017-08-02T05:26:50Z",
+                    "owner": "anchor",
+                    "repo": "nagios-plugin-elasticsearch",
+                    "stars": 109
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ceph-nagios-plugins",
+                  "description": "For ceph.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12157501,
+                    "language": "Python",
+                    "last_commit": "2024-03-03T15:16:33Z",
+                    "owner": "ceph",
+                    "repo": "ceph-nagios-plugins",
+                    "stars": 81
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios-jenkins-plugin",
+                  "description": "For jenkins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2710908,
+                    "language": "Perl",
+                    "last_commit": "2022-05-10T11:30:08Z",
+                    "owner": "jonlives",
+                    "repo": "nagios-jenkins-plugin",
+                    "stars": 42
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_sap_health.pl",
+                  "description": "For sap.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13700054,
+                    "language": "Perl",
+                    "last_commit": "2026-01-16T14:59:22Z",
+                    "owner": "lausser",
+                    "repo": "check_sap_health",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "check_mailbox_health.pl",
+                  "description": "For mailbox.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36552061,
+                    "language": "Perl",
+                    "last_commit": "2022-08-19T13:00:11Z",
+                    "owner": "lausser",
+                    "repo": "check_mailbox_health",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Application"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "HariSekhon's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7380066,
+                    "language": "Python",
+                    "last_commit": "2026-02-03T08:09:03Z",
+                    "owner": "HariSekhon",
+                    "repo": "Nagios-Plugins",
+                    "stars": 1152
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "Willixix's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4054649,
+                    "language": "Perl",
+                    "last_commit": "2020-06-08T16:52:08Z",
+                    "owner": "willixix",
+                    "repo": "naglio-plugins",
+                    "stars": 77
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "MonitoringPlug's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10421932,
+                    "language": "C",
+                    "last_commit": "2020-05-16T19:06:08Z",
+                    "owner": "MonitoringPlug",
+                    "repo": "monitoringplug",
+                    "stars": 61
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "opinkerfi's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9752370,
+                    "language": "Perl",
+                    "last_commit": "2022-01-04T13:20:15Z",
+                    "owner": "opinkerfi",
+                    "repo": "nagios-plugins",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "Inuits's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3807124,
+                    "language": "Perl",
+                    "last_commit": "2025-03-27T15:41:16Z",
+                    "owner": "inuits",
+                    "repo": "monitoring-plugins",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "kumina's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1669681,
+                    "language": "Perl",
+                    "last_commit": "2016-03-22T14:00:56Z",
+                    "owner": "kumina",
+                    "repo": "nagios-plugins-kumina",
+                    "stars": 41
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "innogames's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51774308,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T08:18:55Z",
+                    "owner": "innogames",
+                    "repo": "igmonplugins",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "Voxer's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5517245,
+                    "language": "Shell",
+                    "last_commit": "2015-04-16T05:20:51Z",
+                    "owner": "Voxer",
+                    "repo": "nagios-plugins",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "appfirst's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4654713,
+                    "language": "Python",
+                    "last_commit": "2021-04-26T16:11:44Z",
+                    "owner": "appfirst",
+                    "repo": "nagios-plugins",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios plugins",
+                  "description": "AppliedTrust's plugins.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 2182231,
+                    "language": "Perl",
+                    "last_commit": "2018-05-16T19:35:00Z",
+                    "owner": "AppliedTrust",
+                    "repo": "nagios-plugins",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "zplugin",
+                  "description": "Tons of plugins monitoring your business.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45885533,
+                    "language": "Python",
+                    "last_commit": "2018-10-13T02:41:01Z",
+                    "owner": "crazy-canux",
+                    "repo": "zplugin",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Misc"
+            }
+          ],
+          "description": "The Monitoring Plugins Development Team, maintain a bundle of more than fifty standard plugins for Icinga, Naemon, Nagios, Shinken, Sensu, Centreon and Opsview.",
+          "node_type": "group",
+          "title": "Nagios Monitoring Plugins"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NSCP github",
+                  "description": "NSCP source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4165401,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T10:48:56Z",
+                    "owner": "mickem",
+                    "repo": "nscp",
+                    "stars": 287
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NRPE github",
+                  "description": "Nagios Remote Plugin Executor for Linux.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16119653,
+                    "language": "C",
+                    "last_commit": "2026-06-11T20:05:47Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "nrpe",
+                    "stars": 275
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NCPA github",
+                  "description": "Nagios Cross Platform Agent.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15979175,
+                    "language": "Shell",
+                    "last_commit": "2026-08-18T21:30:27Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "ncpa",
+                    "stars": 207
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SNClient github",
+                  "description": "SNClient source code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616668128,
+                    "language": "Go",
+                    "last_commit": "2026-08-19T10:56:29Z",
+                    "owner": "ConSol-Monitoring",
+                    "repo": "snclient",
+                    "stars": 75
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Agent"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NDOUtils github",
+                  "description": "Nagios Data Output Utils, for Nagios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16119610,
+                    "language": "C",
+                    "last_commit": "2025-03-11T15:09:44Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "ndoutils",
+                    "stars": 51
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "naemon-livestatus github",
+                  "description": "For Naemon.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14967101,
+                    "language": "C++",
+                    "last_commit": "2026-06-19T07:17:58Z",
+                    "owner": "naemon",
+                    "repo": "naemon-livestatus",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mod-livestaus github",
+                  "description": "For Shinken.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11446206,
+                    "language": "Python",
+                    "last_commit": "2019-10-01T07:06:14Z",
+                    "owner": "shinken-monitoring",
+                    "repo": "mod-livestatus",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Event broker"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gearman github",
+                  "description": "Gearmand source code. A gearman job server written in C++.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62418058,
+                    "language": "C++",
+                    "last_commit": "2026-08-17T22:11:05Z",
+                    "owner": "gearman",
+                    "repo": "gearmand",
+                    "stars": 763
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ConSol OMD git",
+                  "description": "OMD source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12441961,
+                    "language": "Shell",
+                    "last_commit": "2026-08-18T07:53:30Z",
+                    "owner": "ConSol-Monitoring",
+                    "repo": "omd",
+                    "stars": 194
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "consol mod-gearman github",
+                  "description": "Mod-gearman source code. A gearman wroker written in C.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 853037,
+                    "language": "C",
+                    "last_commit": "2026-08-04T07:45:16Z",
+                    "owner": "sni",
+                    "repo": "mod_gearman",
+                    "stars": 125
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NRDP github",
+                  "description": "Nagios Remote Data Processor, as a replacement for NSCA.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16119642,
+                    "language": "PHP",
+                    "last_commit": "2026-08-14T16:57:28Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "nrdp",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NSCA github",
+                  "description": "Nagios Service Check Acceptor, for nagios/naemon/icinga.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16119662,
+                    "language": "C",
+                    "last_commit": "2024-08-01T16:47:57Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "nsca",
+                    "stars": 48
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NSCA-ng github",
+                  "description": "NSCA-ng source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8535452,
+                    "language": "C",
+                    "last_commit": "2026-05-25T18:58:50Z",
+                    "owner": "weiss",
+                    "repo": "nsca-ng",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "op5 merlin github",
+                  "description": "Merlin source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56687024,
+                    "language": "C",
+                    "last_commit": "2026-07-30T11:04:06Z",
+                    "owner": "ITRS-Group",
+                    "repo": "monitor-merlin",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Distributions"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "icingaweb2 github",
+                  "description": "For Icinga.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13872749,
+                    "language": "PHP",
+                    "last_commit": "2026-08-12T14:29:24Z",
+                    "owner": "Icinga",
+                    "repo": "icingaweb2",
+                    "stars": 839
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagstamon github",
+                  "description": "Nagstamon source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7109818,
+                    "language": "Python",
+                    "last_commit": "2026-07-29T10:19:25Z",
+                    "owner": "HenriWahl",
+                    "repo": "Nagstamon",
+                    "stars": 458
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "consol thruk github",
+                  "description": "Thruk source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 366441,
+                    "language": "Perl",
+                    "last_commit": "2026-08-18T10:53:55Z",
+                    "owner": "sni",
+                    "repo": "thruk",
+                    "stars": 442
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagdash github",
+                  "description": "Dashboard interface for nagios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6759493,
+                    "language": "PHP",
+                    "last_commit": "2020-04-17T09:54:29Z",
+                    "owner": "lozzd",
+                    "repo": "Nagdash",
+                    "stars": 292
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagvis github",
+                  "description": "Nagvis source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31555328,
+                    "language": "PHP",
+                    "last_commit": "2026-08-11T19:51:45Z",
+                    "owner": "NagVis",
+                    "repo": "nagvis",
+                    "stars": 121
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mod-webui github",
+                  "description": "For Shinken.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11446601,
+                    "language": "JavaScript",
+                    "last_commit": "2025-01-10T15:14:46Z",
+                    "owner": "shinken-monitoring",
+                    "repo": "mod-webui",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "op5 Ninja github",
+                  "description": "Ninja source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60830267,
+                    "language": "PHP",
+                    "last_commit": "2026-07-14T01:43:22Z",
+                    "owner": "ITRS-Group",
+                    "repo": "monitor-ninja",
+                    "stars": 31
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagmap github",
+                  "description": "Integration of nagios/icinga into google maps.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4718632,
+                    "language": "PHP",
+                    "last_commit": "2018-06-25T12:07:31Z",
+                    "owner": "hecko",
+                    "repo": "nagmap",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Visualization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "statsd github",
+                  "description": "Daemon for easy but powerful stats aggregation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1207300,
+                    "language": "JavaScript",
+                    "last_commit": "2025-05-20T07:22:42Z",
+                    "owner": "statsd",
+                    "repo": "statsd",
+                    "stars": 18074
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "graphite-whisper github",
+                  "description": "Graphite whisper.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4254334,
+                    "language": "Python",
+                    "last_commit": "2025-12-01T07:01:19Z",
+                    "owner": "graphite-project",
+                    "repo": "whisper",
+                    "stars": 1262
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rrdtool github",
+                  "description": "Rrdtool source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5761553,
+                    "language": "C",
+                    "last_commit": "2026-08-07T13:51:50Z",
+                    "owner": "oetiker",
+                    "repo": "rrdtool-1.x",
+                    "stars": 1114
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Metric Storage"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "graphios github",
+                  "description": "A program to send nagios perf data to graphite(carbon)/statsd/librato/influxdb.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2864214,
+                    "language": "Python",
+                    "last_commit": "2017-07-27T19:11:24Z",
+                    "owner": "shawn-sterling",
+                    "repo": "graphios",
+                    "stars": 288
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagflux github",
+                  "description": "A connector which copies performancedata from Nagios / Icinga(2) / Naemon to InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38066392,
+                    "language": "Go",
+                    "last_commit": "2022-11-26T02:30:24Z",
+                    "owner": "Griesbacher",
+                    "repo": "nagflux",
+                    "stars": 71
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ledbetter github",
+                  "description": "Script that scrapes alert statistics from Nagios and reports them to Graphite.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 13176859,
+                    "language": "Ruby",
+                    "last_commit": "2015-01-10T18:23:15Z",
+                    "owner": "github",
+                    "repo": "ledbetter",
+                    "stars": 39
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Metric Forwarding"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Graphite web github",
+                  "description": "Graphite web.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4254338,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-10T10:03:06Z",
+                    "owner": "graphite-project",
+                    "repo": "graphite-web",
+                    "stars": 6104
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Graphite carbon github",
+                  "description": "Graphite carbon.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4254325,
+                    "language": "Python",
+                    "last_commit": "2026-05-08T08:28:07Z",
+                    "owner": "graphite-project",
+                    "repo": "carbon",
+                    "stars": 1531
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pnp4nagios github",
+                  "description": "Php4nagios source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 560578,
+                    "language": "PHP",
+                    "last_commit": "2023-05-09T08:20:46Z",
+                    "owner": "lingej",
+                    "repo": "pnp4nagios",
+                    "stars": 153
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Metric Graphing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "adagios github",
+                  "description": "Adagios source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5330407,
+                    "language": "HTML",
+                    "last_commit": "2024-11-07T12:56:00Z",
+                    "owner": "opinkerfi",
+                    "repo": "adagios",
+                    "stars": 332
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nconf github",
+                  "description": "Nconf source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1870134,
+                    "language": "PHP",
+                    "last_commit": "2019-08-06T10:04:24Z",
+                    "owner": "nconf",
+                    "repo": "nconf",
+                    "stars": 76
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios.vim",
+                  "description": "Vim plugin for Nagios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60750367,
+                    "language": "Vim Script",
+                    "last_commit": "2025-06-22T06:27:50Z",
+                    "owner": "crazy-canux",
+                    "repo": "nagios.vim",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "icinga2.vim",
+                  "description": "Vim plugin for Icinga2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60957624,
+                    "language": "VimL",
+                    "last_commit": "2016-06-12T13:35:45Z",
+                    "owner": "crazy-canux",
+                    "repo": "icinga2.vim",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Configuration"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "nagiosBPI github",
+                  "description": "NagiosBPI.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16119597,
+                    "language": "PHP",
+                    "last_commit": "2017-06-19T19:59:21Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "nagiosbpi",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BP github",
+                  "description": "BP source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30141609,
+                    "language": "Perl",
+                    "last_commit": "2015-02-01T09:17:40Z",
+                    "owner": "booboo-at-gluga-de",
+                    "repo": "bp-addon",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Business Process Intelligence"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NSTI github",
+                  "description": "NSTI.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16119576,
+                    "language": "HTML",
+                    "last_commit": "2018-06-06T20:51:47Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "nsti",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagios-mib github",
+                  "description": "This is the initial set of MIBs for Nagios to allow traps sent from Nagios to be recognized by other NMSes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15980320,
+                    "language": "Makefile",
+                    "last_commit": "2020-02-21T16:38:09Z",
+                    "owner": "nagios-plugins",
+                    "repo": "nagios-mib",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SNMP"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "nagios-api github",
+                  "description": "A REST-like, JSON interface to nagios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2595178,
+                    "language": "Python",
+                    "last_commit": "2019-05-17T04:04:08Z",
+                    "owner": "zorkian",
+                    "repo": "nagios-api",
+                    "stars": 587
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pynag github",
+                  "description": "Pynag source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5266135,
+                    "language": "Python",
+                    "last_commit": "2024-03-29T17:29:24Z",
+                    "owner": "pynag",
+                    "repo": "pynag",
+                    "stars": 178
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagiosharder github",
+                  "description": "Ruby API for scraping nagios.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 758981,
+                    "language": "Ruby",
+                    "last_commit": "2018-03-27T12:35:37Z",
+                    "owner": "railsmachine",
+                    "repo": "nagiosharder",
+                    "stars": 116
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagiosvshell github",
+                  "description": "Nagios v-shell PHP interface.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16080788,
+                    "language": "PHP",
+                    "last_commit": "2019-11-05T23:14:06Z",
+                    "owner": "NagiosEnterprises",
+                    "repo": "nagiosvshell",
+                    "stars": 34
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "nagrestconf github",
+                  "description": "Nagrestconf.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9171066,
+                    "language": "Perl",
+                    "last_commit": "2018-06-09T23:54:15Z",
+                    "owner": "mclarkson",
+                    "repo": "nagrestconf",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Addons API"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "nagios-herald github",
+                  "description": "Nagios-herald source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 16780263,
+                    "language": "Ruby",
+                    "last_commit": "2018-03-19T19:17:07Z",
+                    "owner": "etsy",
+                    "repo": "nagios-herald",
+                    "stars": 320
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cucumber github",
+                  "description": "Cucumber source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142601,
+                    "language": "Ruby",
+                    "last_commit": "2022-10-19T07:48:35Z",
+                    "owner": "auxesis",
+                    "repo": "cucumber-nagios",
+                    "stars": 255
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "chef-nagios-cookbook github",
+                  "description": "Chef nagios cookbook.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3720868,
+                    "language": "Ruby",
+                    "last_commit": "2026-07-30T09:20:08Z",
+                    "owner": "sous-chefs",
+                    "repo": "nagios",
+                    "stars": 124
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Misc"
+            }
+          ],
+          "description": "This is the addon can be used for Nagios, Naemon, Icinga, Shinken, Centreon and Opsview.",
+          "node_type": "group",
+          "title": "Nagios Monitoring Addons"
+        }
+      ],
       "title": "Nagios Monitoring"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Centreon plugins github",
-          "description": "Centreon plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-18T14:02:29Z",
-            "owner": "centreon",
-            "repo": "centreon-plugins",
-            "stars": 335
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Centreon core github",
-          "description": "Centreon core written in C++.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2023-05-26T13:07:37Z",
-            "owner": "centreon-archive",
-            "repo": "centreon-engine",
-            "stars": 43
-          }
-        }
-      ],
-      "title": "Centreon"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "monitoring-plugins perl",
-          "description": "Official Perl module for plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2021-02-02T18:25:35Z",
-            "owner": "monitoring-plugins",
-            "repo": "monitoring-plugin-perl",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arguspy",
-          "description": "A set of Python API for write your monitoring plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-26T20:28:22Z",
-            "owner": "crazy-canux",
-            "repo": "arguspy",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Plugins API"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "check_hpasm.pl",
-          "description": "For Hpasm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2025-01-13T14:07:48Z",
-            "owner": "lausser",
-            "repo": "check_hpasm",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_fujitsu_health.pl",
-          "description": "For fujitsu.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2022-05-04T09:14:28Z",
-            "owner": "lausser",
-            "repo": "check_fujitsu_health",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Monitoring Linux/Unix"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "check_raid.pl",
-          "description": "For raid.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-06-27T13:48:01Z",
-            "owner": "glensc",
-            "repo": "nagios-plugin-check_raid",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_tl_health.pl",
-          "description": "For tl.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2023-02-10T14:55:39Z",
-            "owner": "lausser",
-            "repo": "check_tl_health",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_sstcam.pl",
-          "description": "For sstcam.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2010-02-26T17:54:17Z",
-            "owner": "lausser",
-            "repo": "check_sstcam",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Monitoring Storage"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "check_vmware_esx.pl",
-          "description": "For vmware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2023-07-12T08:43:35Z",
-            "owner": "BaldMansMojo",
-            "repo": "check_vmware_esx",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_wmware_api.pl",
-          "description": "For vmware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2020-02-06T07:28:32Z",
-            "owner": "ITRS-Group",
-            "repo": "system-addons-plugins-op5-check_vmware_api",
-            "stars": 42
-          }
-        }
-      ],
-      "title": "Monitoring Virtualization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Monitoring BigData"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "check_postgres.pl",
-          "description": "For postgres.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2025-01-02T02:31:47Z",
-            "owner": "bucardo",
-            "repo": "check_postgres",
-            "stars": 602
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_mongodb.py",
-          "description": "For mongodb.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-03T03:28:35Z",
-            "owner": "mzupan",
-            "repo": "nagios-plugin-mongodb",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_mssql_health.pl",
-          "description": "For mssql.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-07-21T08:28:33Z",
-            "owner": "lausser",
-            "repo": "check_mssql_health",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_oracle_health.pl",
-          "description": "For oracle.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-01-08T15:21:24Z",
-            "owner": "lausser",
-            "repo": "check_oracle_health",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_mysql_health.pl",
-          "description": "For mysql.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2023-02-27T10:50:17Z",
-            "owner": "lausser",
-            "repo": "check_mysql_health",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_db2_health.pl",
-          "description": "For db2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2021-07-09T12:21:45Z",
-            "owner": "lausser",
-            "repo": "check_db2_health",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Monitoring Database"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "check_logfiles.pl",
-          "description": "For logfile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2025-12-15T15:09:37Z",
-            "owner": "lausser",
-            "repo": "check_logfiles",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_multi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "M4",
-            "last_commit": "2020-10-17T08:14:42Z",
-            "owner": "flackem",
-            "repo": "check_multi",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_generic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2012-08-18T08:01:47Z",
-            "owner": "flackem",
-            "repo": "check_generic",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check events",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-03-09T16:44:23Z",
-            "owner": "pewo",
-            "repo": "nagios-plugins",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Monitoring Log"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "check_ssl_cert",
-          "description": "For CA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-04T13:41:22Z",
-            "owner": "matteocorti",
-            "repo": "check_ssl_cert",
-            "stars": 417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios-plugins-rabbitmq",
-          "description": "For rabbitmq.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2024-01-04T07:45:11Z",
-            "owner": "nagios-plugins-rabbitmq",
-            "repo": "nagios-plugins-rabbitmq",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_graphite_data.py",
-          "description": "For graphite.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2017-10-13T12:49:48Z",
-            "owner": "etsy",
-            "repo": "nagios_tools",
-            "stars": 174
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_elasticsearch.py",
-          "description": "For ES.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-08-02T05:26:50Z",
-            "owner": "anchor",
-            "repo": "nagios-plugin-elasticsearch",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ceph-nagios-plugins",
-          "description": "For ceph.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-03T15:16:33Z",
-            "owner": "ceph",
-            "repo": "ceph-nagios-plugins",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios-jenkins-plugin",
-          "description": "For jenkins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2022-05-10T11:30:08Z",
-            "owner": "jonlives",
-            "repo": "nagios-jenkins-plugin",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_sap_health.pl",
-          "description": "For sap.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-01-16T14:59:22Z",
-            "owner": "lausser",
-            "repo": "check_sap_health",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "check_mailbox_health.pl",
-          "description": "For mailbox.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2022-08-19T13:00:11Z",
-            "owner": "lausser",
-            "repo": "check_mailbox_health",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Celery-Nagios-Plugin",
-          "description": "For celery.",
-          "children": []
-        }
-      ],
-      "title": "Monitoring Application"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "HariSekhon's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-03T08:09:03Z",
-            "owner": "HariSekhon",
-            "repo": "Nagios-Plugins",
-            "stars": 1152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "Willixix's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2020-06-08T16:52:08Z",
-            "owner": "willixix",
-            "repo": "naglio-plugins",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "MonitoringPlug's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-05-16T19:06:08Z",
-            "owner": "MonitoringPlug",
-            "repo": "monitoringplug",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "opinkerfi's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2022-01-04T13:20:15Z",
-            "owner": "opinkerfi",
-            "repo": "nagios-plugins",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "Inuits's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2025-03-27T15:41:16Z",
-            "owner": "inuits",
-            "repo": "monitoring-plugins",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "kumina's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2016-03-22T14:00:56Z",
-            "owner": "kumina",
-            "repo": "nagios-plugins-kumina",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "innogames's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T08:18:55Z",
-            "owner": "innogames",
-            "repo": "igmonplugins",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "Voxer's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2015-04-16T05:20:51Z",
-            "owner": "Voxer",
-            "repo": "nagios-plugins",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "appfirst's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-26T16:11:44Z",
-            "owner": "appfirst",
-            "repo": "nagios-plugins",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios plugins",
-          "description": "AppliedTrust's plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Perl",
-            "last_commit": "2018-05-16T19:35:00Z",
-            "owner": "AppliedTrust",
-            "repo": "nagios-plugins",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zplugin",
-          "description": "Tons of plugins monitoring your business.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-13T02:41:01Z",
-            "owner": "crazy-canux",
-            "repo": "zplugin",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NSCP github",
-          "description": "NSCP source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T11:46:35Z",
-            "owner": "mickem",
-            "repo": "nscp",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NRPE github",
-          "description": "Nagios Remote Plugin Executor for Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-11T20:05:47Z",
-            "owner": "NagiosEnterprises",
-            "repo": "nrpe",
-            "stars": 275
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NCPA github",
-          "description": "Nagios Cross Platform Agent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T20:53:18Z",
-            "owner": "NagiosEnterprises",
-            "repo": "ncpa",
-            "stars": 207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SNClient github",
-          "description": "SNClient source code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T15:00:24Z",
-            "owner": "ConSol-Monitoring",
-            "repo": "snclient",
-            "stars": 75
-          }
-        }
-      ],
-      "title": "Agent"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NDOUtils github",
-          "description": "Nagios Data Output Utils, for Nagios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-03-11T15:09:44Z",
-            "owner": "NagiosEnterprises",
-            "repo": "ndoutils",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "naemon-livestatus github",
-          "description": "For Naemon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-19T07:17:58Z",
-            "owner": "naemon",
-            "repo": "naemon-livestatus",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mod-livestaus github",
-          "description": "For Shinken.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-10-01T07:06:14Z",
-            "owner": "shinken-monitoring",
-            "repo": "mod-livestatus",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Event broker"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gearman github",
-          "description": "Gearmand source code. A gearman job server written in C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T22:11:05Z",
-            "owner": "gearman",
-            "repo": "gearmand",
-            "stars": 763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ConSol OMD git",
-          "description": "OMD source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T07:53:30Z",
-            "owner": "ConSol-Monitoring",
-            "repo": "omd",
-            "stars": 194
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "consol mod-gearman github",
-          "description": "Mod-gearman source code. A gearman wroker written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-04T07:45:16Z",
-            "owner": "sni",
-            "repo": "mod_gearman",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NRDP github",
-          "description": "Nagios Remote Data Processor, as a replacement for NSCA.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-14T16:57:28Z",
-            "owner": "NagiosEnterprises",
-            "repo": "nrdp",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NSCA github",
-          "description": "Nagios Service Check Acceptor, for nagios/naemon/icinga.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-01T16:47:57Z",
-            "owner": "NagiosEnterprises",
-            "repo": "nsca",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NSCA-ng github",
-          "description": "NSCA-ng source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-25T18:58:50Z",
-            "owner": "weiss",
-            "repo": "nsca-ng",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "op5 merlin github",
-          "description": "Merlin source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-30T11:04:06Z",
-            "owner": "ITRS-Group",
-            "repo": "monitor-merlin",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DNX github",
-          "description": "DNX source code.",
-          "children": []
-        }
-      ],
-      "title": "Distributions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "icingaweb2 github",
-          "description": "For Icinga.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-12T14:29:24Z",
-            "owner": "Icinga",
-            "repo": "icingaweb2",
-            "stars": 839
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagstamon github",
-          "description": "Nagstamon source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T10:19:25Z",
-            "owner": "HenriWahl",
-            "repo": "Nagstamon",
-            "stars": 458
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "consol thruk github",
-          "description": "Thruk source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2026-08-18T10:53:55Z",
-            "owner": "sni",
-            "repo": "thruk",
-            "stars": 442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagdash github",
-          "description": "Dashboard interface for nagios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-04-17T09:54:29Z",
-            "owner": "lozzd",
-            "repo": "Nagdash",
-            "stars": 292
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagvis github",
-          "description": "Nagvis source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-11T19:51:45Z",
-            "owner": "NagVis",
-            "repo": "nagvis",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mod-webui github",
-          "description": "For Shinken.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-10T15:14:46Z",
-            "owner": "shinken-monitoring",
-            "repo": "mod-webui",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "op5 Ninja github",
-          "description": "Ninja source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-07-14T01:43:22Z",
-            "owner": "ITRS-Group",
-            "repo": "monitor-ninja",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagmap github",
-          "description": "Integration of nagios/icinga into google maps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2018-06-25T12:07:31Z",
-            "owner": "hecko",
-            "repo": "nagmap",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coffeesaint github",
-          "description": "Coffeesaint source code.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "realopinsight github",
-          "description": "Realopinsight source code.",
-          "children": []
-        }
-      ],
-      "title": "Visualization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "statsd github",
-          "description": "Daemon for easy but powerful stats aggregation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-20T07:22:42Z",
-            "owner": "statsd",
-            "repo": "statsd",
-            "stars": 18073
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "graphite-whisper github",
-          "description": "Graphite whisper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-01T07:01:19Z",
-            "owner": "graphite-project",
-            "repo": "whisper",
-            "stars": 1261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rrdtool github",
-          "description": "Rrdtool source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-07T13:51:50Z",
-            "owner": "oetiker",
-            "repo": "rrdtool-1.x",
-            "stars": 1114
-          }
-        }
-      ],
-      "title": "Metric Storage"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "graphios github",
-          "description": "A program to send nagios perf data to graphite(carbon)/statsd/librato/influxdb.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-07-27T19:11:24Z",
-            "owner": "shawn-sterling",
-            "repo": "graphios",
-            "stars": 288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagflux github",
-          "description": "A connector which copies performancedata from Nagios / Icinga(2) / Naemon to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-11-26T02:30:24Z",
-            "owner": "Griesbacher",
-            "repo": "nagflux",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ledbetter github",
-          "description": "Script that scrapes alert statistics from Nagios and reports them to Graphite.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2015-01-10T18:23:15Z",
-            "owner": "github",
-            "repo": "ledbetter",
-            "stars": 39
-          }
-        }
-      ],
-      "title": "Metric Forwarding"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Graphite web github",
-          "description": "Graphite web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T10:03:06Z",
-            "owner": "graphite-project",
-            "repo": "graphite-web",
-            "stars": 6104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphite carbon github",
-          "description": "Graphite carbon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-08T08:28:07Z",
-            "owner": "graphite-project",
-            "repo": "carbon",
-            "stars": 1531
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pnp4nagios github",
-          "description": "Php4nagios source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-05-09T08:20:46Z",
-            "owner": "lingej",
-            "repo": "pnp4nagios",
-            "stars": 153
-          }
-        }
-      ],
-      "title": "Metric Graphing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "adagios github",
-          "description": "Adagios source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-11-07T12:56:00Z",
-            "owner": "opinkerfi",
-            "repo": "adagios",
-            "stars": 332
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nconf github",
-          "description": "Nconf source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-08-06T10:04:24Z",
-            "owner": "nconf",
-            "repo": "nconf",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios.vim",
-          "description": "Vim plugin for Nagios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2025-06-22T06:27:50Z",
-            "owner": "crazy-canux",
-            "repo": "nagios.vim",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "icinga2.vim",
-          "description": "Vim plugin for Icinga2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VimL",
-            "last_commit": "2016-06-12T13:35:45Z",
-            "owner": "crazy-canux",
-            "repo": "icinga2.vim",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Configuration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nagiosBPI github",
-          "description": "NagiosBPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2017-06-19T19:59:21Z",
-            "owner": "NagiosEnterprises",
-            "repo": "nagiosbpi",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BP github",
-          "description": "BP source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2015-02-01T09:17:40Z",
-            "owner": "booboo-at-gluga-de",
-            "repo": "bp-addon",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Business Process Intelligence"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NSTI github",
-          "description": "NSTI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2018-06-06T20:51:47Z",
-            "owner": "NagiosEnterprises",
-            "repo": "nsti",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagios-mib github",
-          "description": "This is the initial set of MIBs for Nagios to allow traps sent from Nagios to be recognized by other NMSes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2020-02-21T16:38:09Z",
-            "owner": "nagios-plugins",
-            "repo": "nagios-mib",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "SNMP"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nagios-api github",
-          "description": "A REST-like, JSON interface to nagios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-17T04:04:08Z",
-            "owner": "zorkian",
-            "repo": "nagios-api",
-            "stars": 587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pynag github",
-          "description": "Pynag source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-29T17:29:24Z",
-            "owner": "pynag",
-            "repo": "pynag",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagiosharder github",
-          "description": "Ruby API for scraping nagios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2018-03-27T12:35:37Z",
-            "owner": "railsmachine",
-            "repo": "nagiosharder",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagiosvshell github",
-          "description": "Nagios v-shell PHP interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-11-05T23:14:06Z",
-            "owner": "NagiosEnterprises",
-            "repo": "nagiosvshell",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nagrestconf github",
-          "description": "Nagrestconf.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2018-06-09T23:54:15Z",
-            "owner": "mclarkson",
-            "repo": "nagrestconf",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Addons API"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nagios-herald github",
-          "description": "Nagios-herald source code.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2018-03-19T19:17:07Z",
-            "owner": "etsy",
-            "repo": "nagios-herald",
-            "stars": 320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cucumber github",
-          "description": "Cucumber source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-10-19T07:48:35Z",
-            "owner": "auxesis",
-            "repo": "cucumber-nagios",
-            "stars": 255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chef-nagios-cookbook github",
-          "description": "Chef nagios cookbook.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-30T09:20:08Z",
-            "owner": "sous-chefs",
-            "repo": "nagios",
-            "stars": 124
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Zabbix Monitoring"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Zabbix Monitoring Plugins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Zabbix Monitoring Addons"
-    },
-    {
       "description": "Application Performance Monitoring.\nModern Monitoring tools for devops, container(kubernetes), microservice and serverless.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "telegraf github",
+              "description": "TICK stack, The plugin-driven server agent for collecting & reporting metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33258973,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:51:16Z",
+                "owner": "influxdata",
+                "repo": "telegraf",
+                "stars": 17757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-exporter github",
+              "description": "Prometheus stack, Exporter for machine metrics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9524057,
+                "language": "Go",
+                "last_commit": "2026-08-19T08:25:20Z",
+                "owner": "prometheus",
+                "repo": "node_exporter",
+                "stars": 13704
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "falcon-plus github",
+              "description": "An open-source and enterprise-level monitoring system.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 55850689,
+                "language": "Go",
+                "last_commit": "2024-04-24T09:15:56Z",
+                "owner": "open-falcon",
+                "repo": "falcon-plus",
+                "stars": 7236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "collectd github",
+              "description": "collectd written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3208640,
+                "language": "C",
+                "last_commit": "2026-05-29T12:58:43Z",
+                "owner": "collectd",
+                "repo": "collectd",
+                "stars": 3367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tcollector github",
+              "description": "Data collection framework for OpenTSDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1189586,
+                "language": "Python",
+                "last_commit": "2024-06-10T16:45:33Z",
+                "owner": "OpenTSDB",
+                "repo": "tcollector",
+                "stars": 510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promtail github",
+              "description": "log agent for loki.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129717717,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:36:39Z",
+                "owner": "grafana",
+                "repo": "loki",
+                "stars": 28760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logstash github",
+              "description": "Transport and process your logs, events, or other data, Elastic stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1090311,
+                "language": "Java",
+                "last_commit": "2026-08-18T13:45:33Z",
+                "owner": "elastic",
+                "repo": "logstash",
+                "stars": 14926
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluent github",
+              "description": "Fluentd is an open-source logging solution to unify data collection and consumption.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1918677,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T06:38:02Z",
+                "owner": "fluent",
+                "repo": "fluentd",
+                "stars": 13579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "beats github",
+              "description": "Lightweight shippers for Elasticsearch & Logstash, Elastic stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16554739,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:06:28Z",
+                "owner": "elastic",
+                "repo": "beats",
+                "stars": 12639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluent-bit",
+              "description": "Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29933948,
+                "language": "C",
+                "last_commit": "2026-08-19T07:41:54Z",
+                "owner": "fluent",
+                "repo": "fluent-bit",
+                "stars": 8043
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javamelody github",
+              "description": "The source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37816257,
+                "language": "Java",
+                "last_commit": "2026-07-27T13:25:00Z",
+                "owner": "javamelody",
+                "repo": "javamelody",
+                "stars": 3039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kamon github",
+              "description": "The source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9843572,
+                "language": "Scala",
+                "last_commit": "2026-01-19T13:16:26Z",
+                "owner": "kamon-io",
+                "repo": "Kamon",
+                "stars": 1426
+              }
+            }
+          ],
+          "description": "Traces, Metrics, Logs.\nMetrics\nLogs\nTraces",
+          "node_type": "group",
+          "title": "Collector"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "prometheus github",
+              "description": "Prometheus stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6838921,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:40:52Z",
+                "owner": "prometheus",
+                "repo": "prometheus",
+                "stars": 65752
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influxdata github",
+              "description": "TICK stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13124802,
+                "language": "Rust",
+                "last_commit": "2026-08-18T22:21:14Z",
+                "owner": "influxdata",
+                "repo": "influxdb",
+                "stars": 31705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VictoriaMetrics",
+              "description": "VictoriaMetrics stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150954997,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:39:34Z",
+                "owner": "VictoriaMetrics",
+                "repo": "VictoriaMetrics",
+                "stars": 17566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hertzbeat github",
+              "description": "An open-source, real-time monitoring system with custom-monitor and agentless.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455584258,
+                "language": "Java",
+                "last_commit": "2026-08-18T06:05:22Z",
+                "owner": "apache",
+                "repo": "hertzbeat",
+                "stars": 7364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenTSDB github",
+              "description": "OpenTSDB source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865412,
+                "language": "Java",
+                "last_commit": "2024-12-12T20:03:34Z",
+                "owner": "OpenTSDB",
+                "repo": "opentsdb",
+                "stars": 5068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kairosDB github",
+              "description": "KairosDB source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8039659,
+                "language": "Java",
+                "last_commit": "2026-03-05T22:27:54Z",
+                "owner": "kairosdb",
+                "repo": "kairosdb",
+                "stars": 1762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elasticsearch github",
+              "description": "Elastic stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507775,
+                "language": "Java",
+                "last_commit": "2026-08-19T12:34:19Z",
+                "owner": "elastic",
+                "repo": "elasticsearch",
+                "stars": 77839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "loki github",
+              "description": "Loki: like Prometheus, but for logs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129717717,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:36:39Z",
+                "owner": "grafana",
+                "repo": "loki",
+                "stars": 28760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tempo github",
+              "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236055696,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:18:18Z",
+                "owner": "grafana",
+                "repo": "tempo",
+                "stars": 5442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "javamelody github",
+              "description": "The source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37816257,
+                "language": "Java",
+                "last_commit": "2026-07-27T13:25:00Z",
+                "owner": "javamelody",
+                "repo": "javamelody",
+                "stars": 3039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kamon github",
+              "description": "The source code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9843572,
+                "language": "Scala",
+                "last_commit": "2026-01-19T13:16:26Z",
+                "owner": "kamon-io",
+                "repo": "Kamon",
+                "stars": 1426
+              }
+            }
+          ],
+          "description": "Some all-in-one APM service provide backend service.\nMetrics\nLogging\nTracing",
+          "node_type": "group",
+          "title": "Backend"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grafana github",
+              "description": "Grafana alerting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15111821,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:40:40Z",
+                "owner": "grafana",
+                "repo": "grafana",
+                "stars": 76305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alertmanager github",
+              "description": "Prometheus stack, Prometheus Alertmanager, written in go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11452538,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:59:50Z",
+                "owner": "prometheus",
+                "repo": "alertmanager",
+                "stars": 8587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kapacitor github",
+              "description": "TICK stack, written in go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41681600,
+                "language": "Go",
+                "last_commit": "2026-08-10T15:38:52Z",
+                "owner": "influxdata",
+                "repo": "kapacitor",
+                "stars": 2374
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alerting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grafana github",
+              "description": "Grafana stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15111821,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:40:40Z",
+                "owner": "grafana",
+                "repo": "grafana",
+                "stars": 76305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kibana github",
+              "description": "Elastic stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7833168,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:40:38Z",
+                "owner": "elastic",
+                "repo": "kibana",
+                "stars": 21251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chronograf github",
+              "description": "TICK stack.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66506962,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T08:39:57Z",
+                "owner": "influxdata",
+                "repo": "chronograf",
+                "stars": 1566
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dashboard"
+        }
+      ],
       "title": "APM Monitoring"
-    },
-    {
-      "description": "Traces, Metrics, Logs.\nMetrics",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "telegraf github",
-          "description": "TICK stack, The plugin-driven server agent for collecting & reporting metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T15:52:57Z",
-            "owner": "influxdata",
-            "repo": "telegraf",
-            "stars": 17756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-exporter github",
-          "description": "Prometheus stack, Exporter for machine metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-08T07:43:51Z",
-            "owner": "prometheus",
-            "repo": "node_exporter",
-            "stars": 13702
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "falcon-plus github",
-          "description": "An open-source and enterprise-level monitoring system.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-04-24T09:15:56Z",
-            "owner": "open-falcon",
-            "repo": "falcon-plus",
-            "stars": 7236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "collectd github",
-          "description": "collectd written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-29T12:58:43Z",
-            "owner": "collectd",
-            "repo": "collectd",
-            "stars": 3366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tcollector github",
-          "description": "Data collection framework for OpenTSDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-10T16:45:33Z",
-            "owner": "OpenTSDB",
-            "repo": "tcollector",
-            "stars": 510
-          }
-        }
-      ],
-      "title": "Collector"
-    },
-    {
-      "description": "Some all-in-one APM service provide backend service.\nMetrics",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "prometheus github",
-          "description": "Prometheus stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T14:39:30Z",
-            "owner": "prometheus",
-            "repo": "prometheus",
-            "stars": 65738
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influxdata github",
-          "description": "TICK stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T21:06:32Z",
-            "owner": "influxdata",
-            "repo": "influxdb",
-            "stars": 31703
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VictoriaMetrics",
-          "description": "VictoriaMetrics stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T16:30:17Z",
-            "owner": "VictoriaMetrics",
-            "repo": "VictoriaMetrics",
-            "stars": 17559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hertzbeat github",
-          "description": "An open-source, real-time monitoring system with custom-monitor and agentless.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T06:05:22Z",
-            "owner": "apache",
-            "repo": "hertzbeat",
-            "stars": 7365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenTSDB github",
-          "description": "OpenTSDB source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-12-12T20:03:34Z",
-            "owner": "OpenTSDB",
-            "repo": "opentsdb",
-            "stars": 5068
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kairosDB github",
-          "description": "KairosDB source code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-05T22:27:54Z",
-            "owner": "kairosdb",
-            "repo": "kairosdb",
-            "stars": 1762
-          }
-        }
-      ],
-      "title": "Backend"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "grafana github",
-          "description": "Grafana alerting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:39:40Z",
-            "owner": "grafana",
-            "repo": "grafana",
-            "stars": 76293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alertmanager github",
-          "description": "Prometheus stack, Prometheus Alertmanager, written in go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T19:11:21Z",
-            "owner": "prometheus",
-            "repo": "alertmanager",
-            "stars": 8583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kapacitor github",
-          "description": "TICK stack, written in go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-10T15:38:52Z",
-            "owner": "influxdata",
-            "repo": "kapacitor",
-            "stars": 2374
-          }
-        }
-      ],
-      "title": "Alerting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "grafana github",
-          "description": "Grafana stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:39:40Z",
-            "owner": "grafana",
-            "repo": "grafana",
-            "stars": 76293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kibana github",
-          "description": "Elastic stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:40:50Z",
-            "owner": "elastic",
-            "repo": "kibana",
-            "stars": 21249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chronograf github",
-          "description": "TICK stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T08:39:57Z",
-            "owner": "influxdata",
-            "repo": "chronograf",
-            "stars": 1566
-          }
-        }
-      ],
-      "title": "Dashboard"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Distributed Tracing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "API"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Incident management"
-    },
-    {
-      "description": "Contribution guide",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Authors",
-      "items": [],
-      "title": "Authors"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:43:19.381Z",
+    "last_updated": "2026-08-19T12:40:55.430Z",
     "original_repository": "crazy-canux/awesome-monitoring",
+    "original_repository_id": 59476603,
     "original_repository_sha": "e0b56bd47393fbabded8b030e50314841e24c644",
     "enhanced_repository": "enhansome/enhansome-monitoring",
     "enhanced_repository_description": null,
