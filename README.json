@@ -1,8 +1,226 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomeness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21600440,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33620
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": "Tranditional Data Center Monitoring tools.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nagios core github",
+              "description": "Nagios core written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16119670,
+                "language": "C",
+                "last_commit": "2026-08-07T15:49:17Z",
+                "owner": "NagiosEnterprises",
+                "repo": "nagioscore",
+                "stars": 2040
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nagios"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ganglia core github",
+              "description": "Ganglia written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2018548,
+                "language": "C",
+                "last_commit": "2022-01-23T06:46:29Z",
+                "owner": "ganglia",
+                "repo": "monitor-core",
+                "stars": 496
+              }
+            }
+          ],
+          "description": "Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.",
+          "node_type": "group",
+          "title": "Ganglia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Opserver github",
+              "description": "Opserver written in C#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13589461,
+                "language": "C#",
+                "last_commit": "2024-11-30T21:00:22Z",
+                "owner": "opserver",
+                "repo": "Opserver",
+                "stars": 4566
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Opserver"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "netdata github",
+              "description": "Netdata written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10744183,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:50:26Z",
+                "owner": "netdata",
+                "repo": "netdata",
+                "stars": 80275
+              }
+            }
+          ],
+          "description": "netdata is a system for distributed real-time performance and health monitoring. It provides unparalleled insights, in real-time, of everything happening on the system it runs (including applications such as web and database servers), using modern interactive web dashboards.",
+          "node_type": "group",
+          "title": "Netdata"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HertzBeat github",
+              "description": "HertzBeat github.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455584258,
+                "language": "Java",
+                "last_commit": "2026-08-24T10:48:51Z",
+                "owner": "apache",
+                "repo": "hertzbeat",
+                "stars": 7374
+              }
+            }
+          ],
+          "description": "HertzBeat is an open-source, real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more.",
+          "node_type": "group",
+          "title": "HertzBeat"
+        }
+      ],
+      "title": "DC Monitoring"
+    },
+    {
       "description": "Monitoring tools based on nagios.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Icinga2 core github",
+              "description": "Icinga2 core written in C++.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12440855,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:05:21Z",
+                "owner": "Icinga",
+                "repo": "icinga2",
+                "stars": 2232
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Icinga"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Naemon core github",
+              "description": "Next generation of nagios core written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14040015,
+                "language": "C",
+                "last_commit": "2026-08-04T07:48:53Z",
+                "owner": "naemon",
+                "repo": "naemon-core",
+                "stars": 172
+              }
+            }
+          ],
+          "description": "Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications.",
+          "node_type": "group",
+          "title": "Naemon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shinken core github",
+              "description": "Shinken core written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105519,
+                "language": "Python",
+                "last_commit": "2024-04-26T08:16:18Z",
+                "owner": "shinken-solutions",
+                "repo": "shinken",
+                "stars": 1136
+              }
+            }
+          ],
+          "description": "Shinken is a monitoring framework. It's a Python Nagios® Core total rewrite enhancing flexibility and large environment management.",
+          "node_type": "group",
+          "title": "Shinken"
+        },
         {
           "children": [
             {
@@ -14,7 +232,7 @@
                 "archived": false,
                 "id": 25678869,
                 "language": "Perl",
-                "last_commit": "2026-08-21T15:56:34Z",
+                "last_commit": "2026-08-24T13:35:09Z",
                 "owner": "centreon",
                 "repo": "centreon-plugins",
                 "stars": 335
@@ -39,6 +257,50 @@
           "description": "Centreon is a network, system, applicative supervision and monitoring tool.",
           "node_type": "group",
           "title": "Centreon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sensu github",
+              "description": "Sensu core written in Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 2031640,
+                "language": "Ruby",
+                "last_commit": "2019-12-31T23:01:24Z",
+                "owner": "sensu",
+                "repo": "sensu",
+                "stars": 2865
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sensu"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cabot github",
+              "description": "Self-hosted, easily-deployable monitoring and alerts service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15680717,
+                "language": "JavaScript",
+                "last_commit": "2023-09-10T09:23:26Z",
+                "owner": "arachnys",
+                "repo": "cabot",
+                "stars": 5674
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cabot"
         },
         {
           "children": [
@@ -83,6 +345,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "OSX-Monitoring-Tools",
+                  "description": "Plugins used to monitoring Mac system.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 3736196,
+                    "language": "Shell",
+                    "last_commit": "2023-11-22T08:43:58Z",
+                    "owner": "jedda",
+                    "repo": "OSX-Monitoring-Tools",
+                    "stars": 332
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring OS X"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "check_hpasm.pl",
                   "description": "For Hpasm.",
                   "children": [],
@@ -115,6 +399,28 @@
               "description": null,
               "node_type": "group",
               "title": "Monitoring Linux/Unix"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "check_nwc_health.pl",
+                  "description": "For nwc.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1006488,
+                    "language": "Perl",
+                    "last_commit": "2026-08-10T19:38:24Z",
+                    "owner": "lausser",
+                    "repo": "check_nwc_health",
+                    "stars": 154
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Network"
             },
             {
               "children": [
@@ -204,6 +510,28 @@
               "description": null,
               "node_type": "group",
               "title": "Monitoring Virtualization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "openstack nagios plugins",
+                  "description": "Monitoring openstack.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23103648,
+                    "language": "Python",
+                    "last_commit": "2024-05-03T17:10:38Z",
+                    "owner": "cirrax",
+                    "repo": "openstack-nagios-plugins",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Cloud Computing"
             },
             {
               "children": [
@@ -500,6 +828,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "nagios_erlang",
+                  "description": "Monitoring erlang",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 451309,
+                    "language": "Shell",
+                    "last_commit": "2016-06-02T15:13:47Z",
+                    "owner": "lethain",
+                    "repo": "nagios_erlang",
+                    "stars": 41
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitoring Languages"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "nagios plugins",
                   "description": "HariSekhon's plugins.",
                   "children": [],
@@ -686,7 +1036,7 @@
                     "archived": false,
                     "id": 4165401,
                     "language": "C++",
-                    "last_commit": "2026-08-23T15:57:22Z",
+                    "last_commit": "2026-08-24T10:07:33Z",
                     "owner": "mickem",
                     "repo": "nscp",
                     "stars": 288
@@ -704,7 +1054,7 @@
                     "last_commit": "2026-06-11T20:05:47Z",
                     "owner": "NagiosEnterprises",
                     "repo": "nrpe",
-                    "stars": 275
+                    "stars": 274
                   }
                 },
                 {
@@ -731,7 +1081,7 @@
                     "archived": false,
                     "id": 616668128,
                     "language": "Go",
-                    "last_commit": "2026-08-21T07:14:24Z",
+                    "last_commit": "2026-08-24T10:04:12Z",
                     "owner": "ConSol-Monitoring",
                     "repo": "snclient",
                     "stars": 76
@@ -883,7 +1233,7 @@
                     "last_commit": "2026-05-25T18:58:50Z",
                     "owner": "weiss",
                     "repo": "nsca-ng",
-                    "stars": 25
+                    "stars": 26
                   }
                 },
                 {
@@ -947,7 +1297,7 @@
                     "archived": false,
                     "id": 366441,
                     "language": "Perl",
-                    "last_commit": "2026-08-20T13:21:52Z",
+                    "last_commit": "2026-08-24T09:03:56Z",
                     "owner": "sni",
                     "repo": "thruk",
                     "stars": 442
@@ -1260,6 +1610,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "dokuwiki github",
+                  "description": "Dokuwiki source code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 456930,
+                    "language": "PHP",
+                    "last_commit": "2026-08-24T07:29:27Z",
+                    "owner": "dokuwiki",
+                    "repo": "dokuwiki",
+                    "stars": 4707
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Procedure"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "nagiosBPI github",
                   "description": "NagiosBPI.",
                   "children": [],
@@ -1489,7 +1861,7 @@
                 "last_commit": "2026-08-21T19:06:08Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17763
+                "stars": 17764
               }
             },
             {
@@ -1504,7 +1876,7 @@
                 "last_commit": "2026-08-21T14:33:31Z",
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13715
+                "stars": 13718
               }
             },
             {
@@ -1561,10 +1933,10 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-23T15:32:54Z",
+                "last_commit": "2026-08-24T14:09:04Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28774
+                "stars": 28778
               }
             },
             {
@@ -1576,7 +1948,7 @@
                 "archived": false,
                 "id": 1090311,
                 "language": "Java",
-                "last_commit": "2026-08-21T16:11:07Z",
+                "last_commit": "2026-08-24T14:05:26Z",
                 "owner": "elastic",
                 "repo": "logstash",
                 "stars": 14923
@@ -1591,7 +1963,7 @@
                 "archived": false,
                 "id": 1918677,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T01:32:40Z",
+                "last_commit": "2026-08-24T06:57:36Z",
                 "owner": "fluent",
                 "repo": "fluentd",
                 "stars": 13579
@@ -1606,10 +1978,10 @@
                 "archived": false,
                 "id": 16554739,
                 "language": "Go",
-                "last_commit": "2026-08-22T01:59:27Z",
+                "last_commit": "2026-08-24T11:21:32Z",
                 "owner": "elastic",
                 "repo": "beats",
-                "stars": 12639
+                "stars": 12640
               }
             },
             {
@@ -1621,10 +1993,10 @@
                 "archived": false,
                 "id": 29933948,
                 "language": "C",
-                "last_commit": "2026-08-21T10:11:55Z",
+                "last_commit": "2026-08-24T10:46:48Z",
                 "owner": "fluent",
                 "repo": "fluent-bit",
-                "stars": 8059
+                "stars": 8060
               }
             },
             {
@@ -1673,10 +2045,10 @@
                 "archived": false,
                 "id": 6838921,
                 "language": "Go",
-                "last_commit": "2026-08-23T13:08:58Z",
+                "last_commit": "2026-08-24T12:48:09Z",
                 "owner": "prometheus",
                 "repo": "prometheus",
-                "stars": 65785
+                "stars": 65798
               }
             },
             {
@@ -1691,7 +2063,7 @@
                 "last_commit": "2026-08-20T19:31:27Z",
                 "owner": "influxdata",
                 "repo": "influxdb",
-                "stars": 31707
+                "stars": 31709
               }
             },
             {
@@ -1703,10 +2075,10 @@
                 "archived": false,
                 "id": 150954997,
                 "language": "Go",
-                "last_commit": "2026-08-22T08:31:08Z",
+                "last_commit": "2026-08-24T13:44:47Z",
                 "owner": "VictoriaMetrics",
                 "repo": "VictoriaMetrics",
-                "stars": 17580
+                "stars": 17589
               }
             },
             {
@@ -1718,10 +2090,10 @@
                 "archived": false,
                 "id": 455584258,
                 "language": "Java",
-                "last_commit": "2026-08-23T11:21:37Z",
+                "last_commit": "2026-08-24T10:48:51Z",
                 "owner": "apache",
                 "repo": "hertzbeat",
-                "stars": 7370
+                "stars": 7374
               }
             },
             {
@@ -1736,7 +2108,7 @@
                 "last_commit": "2024-12-12T20:03:34Z",
                 "owner": "OpenTSDB",
                 "repo": "opentsdb",
-                "stars": 5066
+                "stars": 5065
               }
             },
             {
@@ -1763,10 +2135,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-23T10:06:41Z",
+                "last_commit": "2026-08-24T14:20:13Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77853
+                "stars": 77856
               }
             },
             {
@@ -1778,10 +2150,10 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-23T15:32:54Z",
+                "last_commit": "2026-08-24T14:09:04Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28774
+                "stars": 28778
               }
             },
             {
@@ -1793,7 +2165,7 @@
                 "archived": false,
                 "id": 236055696,
                 "language": "Go",
-                "last_commit": "2026-08-23T14:23:52Z",
+                "last_commit": "2026-08-24T14:19:21Z",
                 "owner": "grafana",
                 "repo": "tempo",
                 "stars": 5451
@@ -1845,10 +2217,10 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:16:39Z",
+                "last_commit": "2026-08-24T14:18:25Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76362
+                "stars": 76387
               }
             },
             {
@@ -1860,10 +2232,10 @@
                 "archived": false,
                 "id": 11452538,
                 "language": "Go",
-                "last_commit": "2026-08-22T14:04:18Z",
+                "last_commit": "2026-08-24T12:14:42Z",
                 "owner": "prometheus",
                 "repo": "alertmanager",
-                "stars": 8589
+                "stars": 8593
               }
             },
             {
@@ -1878,7 +2250,7 @@
                 "last_commit": "2026-08-10T15:38:52Z",
                 "owner": "influxdata",
                 "repo": "kapacitor",
-                "stars": 2374
+                "stars": 2375
               }
             }
           ],
@@ -1897,10 +2269,10 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:16:39Z",
+                "last_commit": "2026-08-24T14:18:25Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76362
+                "stars": 76387
               }
             },
             {
@@ -1912,10 +2284,10 @@
                 "archived": false,
                 "id": 7833168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T16:24:24Z",
+                "last_commit": "2026-08-24T14:19:46Z",
                 "owner": "elastic",
                 "repo": "kibana",
-                "stars": 21251
+                "stars": 21253
               }
             },
             {
@@ -1940,10 +2312,176 @@
         }
       ],
       "title": "APM Monitoring"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zipkin github",
+              "description": "A distributed tracing system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4576305,
+                "language": "Java",
+                "last_commit": "2026-08-06T04:10:29Z",
+                "owner": "openzipkin",
+                "repo": "zipkin",
+                "stars": 17453
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Zipkin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sentry github",
+              "description": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 873328,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:20:53Z",
+                "owner": "getsentry",
+                "repo": "sentry",
+                "stars": 44609
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sentry"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pinpoint github",
+              "description": "APM, (Application Performance Management) tool for large-scale distributed systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25459400,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:47:26Z",
+                "owner": "pinpoint-apm",
+                "repo": "pinpoint",
+                "stars": 13861
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pinpoint"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "skywalking github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45721011,
+                "language": "Java",
+                "last_commit": "2026-08-24T13:38:33Z",
+                "owner": "apache",
+                "repo": "skywalking",
+                "stars": 24929
+              }
+            }
+          ],
+          "description": "all-in-one",
+          "node_type": "group",
+          "title": "SkyWalking"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uptrace github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440841550,
+                "language": "Go",
+                "last_commit": "2026-08-13T14:47:22Z",
+                "owner": "uptrace",
+                "repo": "uptrace",
+                "stars": 4268
+              }
+            }
+          ],
+          "description": "all-in-one",
+          "node_type": "group",
+          "title": "Uptrace"
+        }
+      ],
+      "title": "Distributed Tracing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "super-devops github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108929556,
+                "language": "Python",
+                "last_commit": "2025-08-09T03:43:14Z",
+                "owner": "crazy-canux",
+                "repo": "super-devops",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "super-devops"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "go-devops github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154333868,
+                "language": "Go",
+                "last_commit": "2023-05-11T20:38:56Z",
+                "owner": "crazy-canux",
+                "repo": "go-devops",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "go-devops"
+        }
+      ],
+      "title": "API"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:36:41.329Z",
+    "last_updated": "2026-08-24T14:21:05.594Z",
     "original_repository": "crazy-canux/awesome-monitoring",
     "original_repository_id": 59476603,
     "original_repository_sha": "e0b56bd47393fbabded8b030e50314841e24c644",
