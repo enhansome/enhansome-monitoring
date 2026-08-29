@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500854
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-29T00:31:48.690Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:48.690Z"
         }
@@ -50,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nagios Core",
+                "homepage": null,
                 "id": 16119670,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-07T15:49:17Z",
+                "open_issues": 206,
                 "owner": "NagiosEnterprises",
                 "repo": "nagioscore",
-                "stars": 2040
+                "stars": 2040,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -73,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ganglia Monitoring core",
+                "homepage": null,
                 "id": 2018548,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-01-23T06:46:29Z",
+                "open_issues": 86,
                 "owner": "ganglia",
                 "repo": "monitor-core",
-                "stars": 496
+                "stars": 496,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -96,12 +122,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stack Exchange's Monitoring System",
+                "homepage": "https://opserver.github.io/Opserver/",
                 "id": 13589461,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-11-30T21:00:22Z",
+                "open_issues": 76,
                 "owner": "opserver",
                 "repo": "Opserver",
-                "stars": 4566
+                "stars": 4566,
+                "topics": [
+                  "bosun",
+                  "dotnet",
+                  "elasticsearch",
+                  "monitoring",
+                  "orion",
+                  "redis",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -119,12 +158,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+                "homepage": "https://www.netdata.cloud",
                 "id": 10744183,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-29T00:21:19Z",
+                "open_issues": 387,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80340
+                "stars": 80343,
+                "topics": [
+                  "ai",
+                  "alerting",
+                  "cncf",
+                  "data-visualization",
+                  "database",
+                  "devops",
+                  "docker",
+                  "grafana",
+                  "influxdb",
+                  "kubernetes",
+                  "linux",
+                  "machine-learning",
+                  "mcp",
+                  "mongodb",
+                  "monitoring",
+                  "mysql",
+                  "netdata",
+                  "observability",
+                  "postgresql",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -142,12 +207,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI-powered next-generation open source real-time observability system.",
+                "homepage": "https://hertzbeat.apache.org/",
                 "id": 455584258,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T11:38:01Z",
+                "open_issues": 303,
                 "owner": "apache",
                 "repo": "hertzbeat",
-                "stars": 7379
+                "stars": 7380,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "alerting",
+                  "database",
+                  "grafana",
+                  "linux",
+                  "llm",
+                  "logs",
+                  "metrics",
+                  "monitor",
+                  "monitoring",
+                  "notifications",
+                  "observability",
+                  "prometheus",
+                  "self-hosted",
+                  "server",
+                  "status",
+                  "status-page",
+                  "uptime",
+                  "zabbix"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -171,12 +262,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The core of our monitoring platform with a powerful configuration language and REST API.",
+                "homepage": "https://icinga.com/docs/icinga2/latest",
                 "id": 12440855,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T15:13:02Z",
+                "open_issues": 494,
                 "owner": "Icinga",
                 "repo": "icinga2",
-                "stars": 2233
+                "stars": 2233,
+                "topics": [
+                  "cluster",
+                  "distributed-monitoring",
+                  "elastic",
+                  "graphite",
+                  "graylog",
+                  "icinga",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "notification",
+                  "opentsdb",
+                  "performance",
+                  "rest-api",
+                  "tls"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -194,12 +305,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Networks, Applications and Event Monitor",
+                "homepage": "http://www.naemon.io/",
                 "id": 14040015,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-04T07:48:53Z",
+                "open_issues": 49,
                 "owner": "naemon",
                 "repo": "naemon-core",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "monitoring",
+                  "naemon"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -217,12 +336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible and scalable monitoring framework",
+                "homepage": "http://www.shinken-monitoring.org",
                 "id": 1105519,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-04-26T08:16:18Z",
+                "open_issues": 228,
                 "owner": "shinken-solutions",
                 "repo": "shinken",
-                "stars": 1136
+                "stars": 1136,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -240,12 +364,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. ",
+                "homepage": null,
                 "id": 25678869,
                 "language": "Perl",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:37:17Z",
+                "open_issues": 121,
                 "owner": "centreon",
                 "repo": "centreon-plugins",
-                "stars": 335
+                "stars": 335,
+                "topics": [
+                  "centreon",
+                  "icinga2",
+                  "monitor",
+                  "monitoring-plugins",
+                  "naemon",
+                  "nagios-plugins",
+                  "perl",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -256,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Extremely fast monitoring scheduler, forked from Nagios",
+                "homepage": null,
                 "id": 19500078,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2023-05-26T13:07:37Z",
+                "open_issues": 39,
                 "owner": "centreon-archive",
                 "repo": "centreon-engine",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -279,12 +422,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Monitoring for today's infrastructure. ",
+                "homepage": "https://sensu.io",
                 "id": 2031640,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-12-31T23:01:24Z",
+                "open_issues": 50,
                 "owner": "sensu",
                 "repo": "sensu",
-                "stars": 2865
+                "stars": 2865,
+                "topics": [
+                  "monitoring"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -302,12 +452,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty",
+                "homepage": null,
                 "id": 15680717,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-10T09:23:26Z",
+                "open_issues": 166,
                 "owner": "arachnys",
                 "repo": "cabot",
-                "stars": 5675
+                "stars": 5675,
+                "topics": [
+                  "alerting",
+                  "devops",
+                  "django",
+                  "graphite",
+                  "monitoring",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -327,12 +489,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Perl module Monitoring::Plugin - Nagios::Plugin",
+                    "homepage": "http://search.cpan.org/dist/Monitoring-Plugin/",
                     "id": 2743597,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2021-02-02T18:25:35Z",
+                    "open_issues": 6,
                     "owner": "monitoring-plugins",
                     "repo": "monitoring-plugin-perl",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -343,12 +510,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Monitoring Plugin API for Nagios and tools based on nagios.",
+                    "homepage": "https://arguspy.rtfd.io",
                     "id": 67469765,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-12-26T20:28:22Z",
+                    "open_issues": 6,
                     "owner": "crazy-canux",
                     "repo": "arguspy",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "monitoring",
+                      "nagios",
+                      "plugins"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -366,12 +542,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A collection of scripts and tools to assist in monitoring Mac OS X and essential services with Nagios.",
+                    "homepage": "http://jedda.me",
                     "id": 3736196,
                     "language": "Shell",
+                    "license": "Unlicense",
                     "last_commit": "2023-11-22T08:43:58Z",
+                    "open_issues": 7,
                     "owner": "jedda",
                     "repo": "OSX-Monitoring-Tools",
-                    "stars": 332
+                    "stars": 332,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -389,12 +570,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks the hardware health of HP Proliant Servers. (May also be used for other devices which implement the CPQHLTH mib)",
+                    "homepage": "http://labs.consol.de/nagios/check_hpasm/",
                     "id": 509413,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-01-13T14:07:48Z",
+                    "open_issues": 23,
                     "owner": "lausser",
                     "repo": "check_hpasm",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -405,12 +591,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks the hardware of Fujitsu servers (using SERVERVIEW-STATUS-MIB)",
+                    "homepage": null,
                     "id": 28093838,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2022-05-04T09:14:28Z",
+                    "open_issues": 0,
                     "owner": "lausser",
                     "repo": "check_fujitsu_health",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -428,12 +619,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "nwc = network component. This plugin checks lots of aspects of routers, switches, wlan controllers, firewalls,.....",
+                    "homepage": "https://omd.consol.de",
                     "id": 1006488,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-10T19:38:24Z",
+                    "open_issues": 135,
                     "owner": "lausser",
                     "repo": "check_nwc_health",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": [
+                      "arista",
+                      "cisco",
+                      "f5",
+                      "icinga",
+                      "monitoring",
+                      "nagios",
+                      "network",
+                      "paloalto"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -451,12 +656,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios/Icinga/Sensu plugin to check current server's RAID status ⛺",
+                    "homepage": null,
                     "id": 4448139,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2024-06-27T13:48:01Z",
+                    "open_issues": 40,
                     "owner": "glensc",
                     "repo": "nagios-plugin-check_raid",
-                    "stars": 144
+                    "stars": 144,
+                    "topics": [
+                      "icinga",
+                      "icinga-plugin",
+                      "monitoring",
+                      "nagios",
+                      "nagios-plugin",
+                      "raid",
+                      "sensu",
+                      "sensu-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -467,12 +686,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks tape libraries.",
+                    "homepage": null,
                     "id": 13163862,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-02-10T14:55:39Z",
+                    "open_issues": 0,
                     "owner": "lausser",
                     "repo": "check_tl_health",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -483,12 +707,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "check_sstcam (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks the alarm directory of a SUN Storagetek Common Array Manager.",
+                    "homepage": "http://labs.consol.de/nagios/check_sstcam/",
                     "id": 537637,
                     "language": "Shell",
+                    "license": "GPL-2.0",
                     "last_commit": "2010-02-26T17:54:17Z",
+                    "open_issues": 0,
                     "owner": "lausser",
                     "repo": "check_sstcam",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -506,12 +735,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "chech_vmware_esx  Fork of check_vmware_api.pl",
+                    "homepage": null,
                     "id": 11951286,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-07-12T08:43:35Z",
+                    "open_issues": 17,
                     "owner": "BaldMansMojo",
                     "repo": "check_vmware_esx",
-                    "stars": 122
+                    "stars": 122,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -522,12 +756,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An op5 Monitor/Naemon plugin to monitor VMware virtualization environment",
+                    "homepage": null,
                     "id": 60851493,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-02-06T07:28:32Z",
+                    "open_issues": 1,
                     "owner": "ITRS-Group",
                     "repo": "system-addons-plugins-op5-check_vmware_api",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -545,12 +784,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "nagios/icinga plugins to monitor an openstack installation",
+                    "homepage": null,
                     "id": 23103648,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-03T17:10:38Z",
+                    "open_issues": 0,
                     "owner": "cirrax",
                     "repo": "openstack-nagios-plugins",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -568,12 +812,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios check_postgres plugin for checking status of PostgreSQL databases",
+                    "homepage": "http://bucardo.org/wiki/Check_postgres",
                     "id": 196044,
                     "language": "Perl",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-01-02T02:31:47Z",
+                    "open_issues": 103,
                     "owner": "bucardo",
                     "repo": "check_postgres",
-                    "stars": 602
+                    "stars": 602,
+                    "topics": [
+                      "hacktoberfest",
+                      "monitoring",
+                      "nagios",
+                      "postgres",
+                      "postgresql"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -584,12 +839,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Nagios plugin to check the status of MongoDB",
+                    "homepage": null,
                     "id": 713714,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2025-11-03T03:28:35Z",
+                    "open_issues": 97,
                     "owner": "mzupan",
                     "repo": "nagios-plugin-mongodb",
-                    "stars": 342
+                    "stars": 342,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -600,12 +860,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin, which checks various parameters of Microsoft SQL database servers.",
+                    "homepage": "http://labs.consol.de/nagios/check_mssql_health",
                     "id": 520575,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-07-21T08:28:33Z",
+                    "open_issues": 38,
                     "owner": "lausser",
                     "repo": "check_mssql_health",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -616,12 +881,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks various parameters of Oracle database servers. (We also offer trainings: http://www.consol.de/open-source-monitoring/schulungen/workshops/#datenbank-monitoring)",
+                    "homepage": "http://labs.consol.de/nagios/check_oracle_health",
                     "id": 520581,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-01-08T15:21:24Z",
+                    "open_issues": 25,
                     "owner": "lausser",
                     "repo": "check_oracle_health",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -632,12 +902,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks various parameters of MySQL database servers.",
+                    "homepage": "http://labs.consol.de/nagios/check_mysql_health",
                     "id": 520567,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-02-27T10:50:17Z",
+                    "open_issues": 21,
                     "owner": "lausser",
                     "repo": "check_mysql_health",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -648,12 +923,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks various parameters of DB2 database servers. This plugin is also part of OMD, go to https://labs.consol.de/repo/, install OMD and there you have check_db2_health.",
+                    "homepage": "https://omd.consol.de/docs/plugins/check_db2_health",
                     "id": 520579,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-07-09T12:21:45Z",
+                    "open_issues": 7,
                     "owner": "lausser",
                     "repo": "check_db2_health",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "db2",
+                      "icinga",
+                      "monitoring",
+                      "naemon",
+                      "nagios",
+                      "nagios-plugins"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -671,12 +958,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which scans logfiles for patterns.",
+                    "homepage": "https://omd.consol.de/docs/plugins/check_logfiles/",
                     "id": 520583,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-12-15T15:09:37Z",
+                    "open_issues": 44,
                     "owner": "lausser",
                     "repo": "check_logfiles",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "icinga",
+                      "monitoring",
+                      "naemon",
+                      "nagios"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -687,12 +984,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the swiss knife Nagios plugin",
+                    "homepage": "http://my-plugin.de/check_multi",
                     "id": 720672,
                     "language": "M4",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-10-17T08:14:42Z",
+                    "open_issues": 11,
                     "owner": "flackem",
                     "repo": "check_multi",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -703,12 +1005,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A generic Nagios plugin",
+                    "homepage": "http://my-plugin.de/check_generic",
                     "id": 1290744,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2012-08-18T08:01:47Z",
+                    "open_issues": 1,
                     "owner": "flackem",
                     "repo": "check_generic",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -719,12 +1026,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A small collection of nagios plugins that i have developed or enhanced.",
+                    "homepage": null,
                     "id": 60961394,
                     "language": "Perl",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-09T16:44:23Z",
+                    "open_issues": 1,
                     "owner": "pewo",
                     "repo": "nagios-plugins",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -742,12 +1054,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A shell script (that can be used as a Nagios/Icinga plugin) to check an SSL/TLS connection.",
+                    "homepage": null,
                     "id": 44599737,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T14:56:40Z",
+                    "open_issues": 16,
                     "owner": "matteocorti",
                     "repo": "check_ssl_cert",
-                    "stars": 417
+                    "stars": 417,
+                    "topics": [
+                      "certificate",
+                      "icinga-plugin",
+                      "icinga2-plugin",
+                      "icinga2-plugins",
+                      "nagios-plugin",
+                      "nagios-plugins",
+                      "openssl",
+                      "shell-script",
+                      "ssl",
+                      "tls"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -758,12 +1086,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A set of nagios checks for RabbitMQ using the management interface",
+                    "homepage": null,
                     "id": 1230056,
                     "language": "Perl",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-04T07:45:11Z",
+                    "open_issues": 24,
                     "owner": "nagios-plugins-rabbitmq",
                     "repo": "nagios-plugins-rabbitmq",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": [
+                      "monitoring",
+                      "nagios",
+                      "nagios-plugins",
+                      "nagios-plugins-rabbitmq",
+                      "rabbitmq"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -774,12 +1113,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tools for use with Nagios",
+                    "homepage": null,
                     "id": 2038795,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-10-13T12:49:48Z",
+                    "open_issues": 6,
                     "owner": "etsy",
                     "repo": "nagios_tools",
-                    "stars": 174
+                    "stars": 174,
+                    "topics": [
+                      "non-sox"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -790,12 +1136,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An ElasticSearch availability and performance monitoring plugin for Nagios",
+                    "homepage": null,
                     "id": 6895584,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2017-08-02T05:26:50Z",
+                    "open_issues": 20,
                     "owner": "anchor",
                     "repo": "nagios-plugin-elasticsearch",
-                    "stars": 109
+                    "stars": 109,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -806,12 +1157,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios plugins for Ceph",
+                    "homepage": null,
                     "id": 12157501,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-03T15:16:33Z",
+                    "open_issues": 17,
                     "owner": "ceph",
                     "repo": "ceph-nagios-plugins",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -822,12 +1178,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A nagios plugin for which lets you check jenkins jobs according to various criteria.",
+                    "homepage": null,
                     "id": 2710908,
                     "language": "Perl",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-05-10T11:30:08Z",
+                    "open_issues": 14,
                     "owner": "jonlives",
                     "repo": "nagios-jenkins-plugin",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -838,12 +1199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which checks various parameters of a SAP system. You can check CCMS metrics as well as execute arbitrary BAPI calls.",
+                    "homepage": null,
                     "id": 13700054,
                     "language": "Perl",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-16T14:59:22Z",
+                    "open_issues": 8,
                     "owner": "lausser",
                     "repo": "check_sap_health",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -854,12 +1220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A plugin (monitoring-plugin, not nagios-plugin, see also http://is.gd/PP1330) which is used to count mails meeting specific criteria",
+                    "homepage": null,
                     "id": 36552061,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2022-08-19T13:00:11Z",
+                    "open_issues": 0,
                     "owner": "lausser",
                     "repo": "check_mailbox_health",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -877,12 +1248,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios plugins for monitoring Erlang process groups/applications/nodes/etc",
+                    "homepage": null,
                     "id": 451309,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2016-06-02T15:13:47Z",
+                    "open_issues": 1,
                     "owner": "lethain",
                     "repo": "nagios_erlang",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -900,12 +1276,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "450+ AWS, Hadoop, Cloud, Kafka, Docker, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Jenkins, Travis CI, Git, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Kubernetes, Cloudera etc...",
+                    "homepage": "https://www.linkedin.com/in/HariSekhon",
                     "id": 7380066,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-03T08:09:03Z",
+                    "open_issues": 90,
                     "owner": "HariSekhon",
                     "repo": "Nagios-Plugins",
-                    "stars": 1152
+                    "stars": 1152,
+                    "topics": [
+                      "aws",
+                      "cassandra",
+                      "cloud",
+                      "cloudera",
+                      "consul",
+                      "docker",
+                      "elasticsearch",
+                      "hacktoberfest",
+                      "hadoop",
+                      "hbase",
+                      "jenkins",
+                      "kafka",
+                      "kubernetes",
+                      "linux",
+                      "mysql",
+                      "nagios-plugins",
+                      "rabbitmq",
+                      "redis",
+                      "solr",
+                      "zookeeper"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -916,12 +1318,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Monitoring Plugins by William Leibzon",
+                    "homepage": "http://william.leibzon.org/nagios/",
                     "id": 4054649,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2020-06-08T16:52:08Z",
+                    "open_issues": 26,
                     "owner": "willixix",
                     "repo": "naglio-plugins",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -932,12 +1339,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My collection of monitoring plugins for Nagios and similar monitoring systems. ",
+                    "homepage": null,
                     "id": 10421932,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-05-16T19:06:08Z",
+                    "open_issues": 4,
                     "owner": "MonitoringPlug",
                     "repo": "monitoringplug",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -948,12 +1360,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small army of nagios-plugins either made or maintained by opinkerfi",
+                    "homepage": null,
                     "id": 9752370,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2022-01-04T13:20:15Z",
+                    "open_issues": 15,
                     "owner": "opinkerfi",
                     "repo": "nagios-plugins",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": [
+                      "adagios",
+                      "nagios",
+                      "okconfig"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -964,12 +1385,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bunch of plugins for both Nagios and Icinga we are evaluating.",
+                    "homepage": null,
                     "id": 3807124,
                     "language": "Perl",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-27T15:41:16Z",
+                    "open_issues": 9,
                     "owner": "inuits",
                     "repo": "monitoring-plugins",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -980,12 +1406,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of Nagios plugins that we package.",
+                    "homepage": "http://www.kumina.nl",
                     "id": 1669681,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2016-03-22T14:00:56Z",
+                    "open_issues": 1,
                     "owner": "kumina",
                     "repo": "nagios-plugins-kumina",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -996,12 +1427,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios plugins from InnoGames",
+                    "homepage": null,
                     "id": 51774308,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-03T08:18:55Z",
+                    "open_issues": 10,
                     "owner": "innogames",
                     "repo": "igmonplugins",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "apt",
+                      "atlassian",
+                      "beanstalkd",
+                      "bgp",
+                      "carp",
+                      "exim",
+                      "gitlab",
+                      "kvm",
+                      "linux",
+                      "memcached",
+                      "monitoring",
+                      "mysql",
+                      "nagios",
+                      "nrpe",
+                      "nsca",
+                      "puppet"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1012,12 +1465,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plugins for nagios used by Voxer, made specifically for SmartOS",
+                    "homepage": null,
                     "id": 5517245,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2015-04-16T05:20:51Z",
+                    "open_issues": 1,
                     "owner": "Voxer",
                     "repo": "nagios-plugins",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1028,12 +1486,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of Nagios plugins for checking status of common server applications",
+                    "homepage": null,
                     "id": 4654713,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-26T16:11:44Z",
+                    "open_issues": 3,
                     "owner": "appfirst",
                     "repo": "nagios-plugins",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1044,12 +1507,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Nagios Plugins",
+                    "homepage": "Nagios plugins developed by AppliedTrust.",
                     "id": 2182231,
                     "language": "Perl",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2018-05-16T19:35:00Z",
+                    "open_issues": 7,
                     "owner": "AppliedTrust",
                     "repo": "nagios-plugins",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1060,12 +1528,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plugins for nagios and tools based on nagios.",
+                    "homepage": null,
                     "id": 45885533,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-10-13T02:41:01Z",
+                    "open_issues": 0,
                     "owner": "crazy-canux",
                     "repo": "zplugin",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1090,12 +1563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NSClient++",
+                    "homepage": "http://nsclient.org",
                     "id": 4165401,
                     "language": "C++",
-                    "last_commit": "2026-08-28T18:20:42Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:14:57Z",
+                    "open_issues": 42,
                     "owner": "mickem",
                     "repo": "nscp",
-                    "stars": 288
+                    "stars": 288,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1106,12 +1584,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NRPE Agent",
+                    "homepage": null,
                     "id": 16119653,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-06-11T20:05:47Z",
+                    "open_issues": 46,
                     "owner": "NagiosEnterprises",
                     "repo": "nrpe",
-                    "stars": 274
+                    "stars": 274,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1122,12 +1605,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios Cross-Platform Agent",
+                    "homepage": null,
                     "id": 15979175,
                     "language": "Shell",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T14:21:49Z",
+                    "open_issues": 222,
                     "owner": "NagiosEnterprises",
                     "repo": "ncpa",
-                    "stars": 208
+                    "stars": 208,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1138,12 +1626,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SNClient - Cross platform monitoring agent",
+                    "homepage": "https://omd.consol.de/docs/snclient/",
                     "id": 616668128,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T13:34:12Z",
+                    "open_issues": 14,
                     "owner": "ConSol-Monitoring",
                     "repo": "snclient",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": [
+                      "bsd",
+                      "golang",
+                      "icinga",
+                      "linux",
+                      "monitoring",
+                      "naemon",
+                      "nagios",
+                      "osx",
+                      "prometheus",
+                      "windows"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1161,12 +1665,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NDOUtils - Database Output for Nagios Core",
+                    "homepage": null,
                     "id": 16119610,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2025-03-11T15:09:44Z",
+                    "open_issues": 3,
                     "owner": "NagiosEnterprises",
                     "repo": "ndoutils",
-                    "stars": 51
+                    "stars": 52,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1177,12 +1686,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Naemon - Livestatus Eventbroker Module",
+                    "homepage": null,
                     "id": 14967101,
                     "language": "C++",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-06-19T07:17:58Z",
+                    "open_issues": 5,
                     "owner": "naemon",
                     "repo": "naemon-livestatus",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1193,12 +1707,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shinken module for presenting data with a MK/Livestatus comptabile interface",
+                    "homepage": null,
                     "id": 11446206,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2019-10-01T07:06:14Z",
+                    "open_issues": 40,
                     "owner": "shinken-monitoring",
                     "repo": "mod-livestatus",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1216,12 +1735,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://gearman.org/",
                     "id": 62418058,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T09:08:21Z",
+                    "open_issues": 47,
                     "owner": "gearman",
                     "repo": "gearmand",
-                    "stars": 763
+                    "stars": 763,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1232,12 +1758,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OMD - Open Monitoring Distribution Labs Edition.",
+                    "homepage": "https://omd.consol.de",
                     "id": 12441961,
                     "language": "Shell",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T10:16:54Z",
+                    "open_issues": 16,
                     "owner": "ConSol-Monitoring",
                     "repo": "omd",
-                    "stars": 194
+                    "stars": 194,
+                    "topics": [
+                      "grafana",
+                      "monitoring",
+                      "naemon",
+                      "omd",
+                      "prometheus",
+                      "thruk",
+                      "victoriametrics"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1248,12 +1787,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Distribute Naemon Host/Service Checks & Eventhandler with Gearman Queues. Host/Servicegroups affinity included.",
+                    "homepage": "http://www.mod-gearman.org",
                     "id": 853037,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-04T07:45:16Z",
+                    "open_issues": 4,
                     "owner": "sni",
                     "repo": "mod_gearman",
-                    "stars": 126
+                    "stars": 126,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1264,12 +1808,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NRDP",
+                    "homepage": null,
                     "id": 16119642,
                     "language": "PHP",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-14T16:57:28Z",
+                    "open_issues": 9,
                     "owner": "NagiosEnterprises",
                     "repo": "nrdp",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1280,12 +1829,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NSCA Passive Check Daemon",
+                    "homepage": null,
                     "id": 16119662,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-08-01T16:47:57Z",
+                    "open_issues": 5,
                     "owner": "NagiosEnterprises",
                     "repo": "nsca",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1296,12 +1850,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NSCA-ng is an add-on for transferring check results (and other commands) to Nagios or Icinga.",
+                    "homepage": "https://nsca-ng.org",
                     "id": 8535452,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-25T18:58:50Z",
+                    "open_issues": 1,
                     "owner": "weiss",
                     "repo": "nsca-ng",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "c",
+                      "distributed",
+                      "monitoring"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1312,12 +1875,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Module for Effortless Redundancy and Loadbalancing In Naemon",
+                    "homepage": "https://itrs-group.github.io/monitor-merlin/",
                     "id": 56687024,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-07-30T11:04:06Z",
+                    "open_issues": 11,
                     "owner": "ITRS-Group",
                     "repo": "monitor-merlin",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "database",
+                      "distributed",
+                      "naemon"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1335,12 +1907,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight and extensible web interface to keep an eye on your environment. Analyse problems and act on them.",
+                    "homepage": "https://icinga.com/get-started/",
                     "id": 13872749,
                     "language": "PHP",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T06:29:30Z",
+                    "open_issues": 222,
                     "owner": "Icinga",
                     "repo": "icingaweb2",
-                    "stars": 840
+                    "stars": 840,
+                    "topics": [
+                      "cli",
+                      "icinga",
+                      "monitoring"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1351,12 +1932,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios status monitor for your desktop.",
+                    "homepage": "https://nagstamon.de",
                     "id": 7109818,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-23T16:16:07Z",
+                    "open_issues": 143,
                     "owner": "HenriWahl",
                     "repo": "Nagstamon",
-                    "stars": 458
+                    "stars": 458,
+                    "topics": [
+                      "centreon",
+                      "checkmk",
+                      "icinga",
+                      "linux",
+                      "macos",
+                      "monitor",
+                      "multisite",
+                      "nagios",
+                      "op5",
+                      "opsview",
+                      "prometheus",
+                      "python",
+                      "qt5",
+                      "qt6",
+                      "sensu",
+                      "thruk",
+                      "windows",
+                      "zabbix",
+                      "zenoss"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1367,12 +1973,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Thruk is a multibackend monitoring webinterface for Naemon, Nagios, Icinga and Shinken using the Livestatus API.",
+                    "homepage": "http://www.thruk.org",
                     "id": 366441,
                     "language": "Perl",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T21:36:31Z",
+                    "open_issues": 95,
                     "owner": "sni",
                     "repo": "thruk",
-                    "stars": 442
+                    "stars": 442,
+                    "topics": [
+                      "icinga",
+                      "monitoring",
+                      "naemon",
+                      "nagios",
+                      "perl",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1383,12 +2001,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A full screen, clean interface for Nagios designed for A dashboard/NOC/monitoring screen. ",
+                    "homepage": null,
                     "id": 6759493,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2020-04-17T09:54:29Z",
+                    "open_issues": 24,
                     "owner": "lozzd",
                     "repo": "Nagdash",
-                    "stars": 292
+                    "stars": 292,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1399,12 +2022,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualization addon for your open source monitoring core",
+                    "homepage": "http://nagvis.org/",
                     "id": 31555328,
                     "language": "PHP",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-11T19:51:45Z",
+                    "open_issues": 77,
                     "owner": "NagVis",
                     "repo": "nagvis",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "check-mk",
+                      "icinga",
+                      "mapping",
+                      "nagios",
+                      "php",
+                      "shinken",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1415,12 +2051,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shinken Web User Interface",
+                    "homepage": null,
                     "id": 11446601,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-01-10T15:14:46Z",
+                    "open_issues": 25,
                     "owner": "shinken-monitoring",
                     "repo": "mod-webui",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1431,12 +2072,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ninja is Now Just Awesome - a modern web GUI for Naemon",
+                    "homepage": null,
                     "id": 60830267,
                     "language": "PHP",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-14T01:43:22Z",
+                    "open_issues": 11,
                     "owner": "ITRS-Group",
                     "repo": "monitor-ninja",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": [
+                      "dashboard",
+                      "gui",
+                      "livestatus",
+                      "metrics",
+                      "monitoring",
+                      "naemon",
+                      "ninja",
+                      "php",
+                      "reporting"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1447,12 +2103,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NagMap - standalone integration of Nagios or Icinga into Google Maps",
+                    "homepage": null,
                     "id": 4718632,
                     "language": "PHP",
+                    "license": null,
                     "last_commit": "2018-06-25T12:07:31Z",
+                    "open_issues": 0,
                     "owner": "hecko",
                     "repo": "nagmap",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1470,12 +2131,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Daemon for easy but powerful stats aggregation",
+                    "homepage": null,
                     "id": 1207300,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-05-20T07:22:42Z",
+                    "open_issues": 90,
                     "owner": "statsd",
                     "repo": "statsd",
-                    "stars": 18076
+                    "stars": 18076,
+                    "topics": [
+                      "graphite",
+                      "javascript",
+                      "metrics",
+                      "nodejs",
+                      "statsd"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1486,12 +2158,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Whisper is a file-based time-series database format for Graphite.",
+                    "homepage": "http://graphite.readthedocs.org/",
                     "id": 4254334,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-01T07:01:19Z",
+                    "open_issues": 8,
                     "owner": "graphite-project",
                     "repo": "whisper",
-                    "stars": 1262
+                    "stars": 1262,
+                    "topics": [
+                      "graphite",
+                      "graphite-components",
+                      "library",
+                      "metrics",
+                      "python",
+                      "time-series",
+                      "whisper"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1502,12 +2187,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RRDtool 1.x - Round Robin Database",
+                    "homepage": "http://www.rrdtool.org",
                     "id": 5761553,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-07T13:51:50Z",
+                    "open_issues": 162,
                     "owner": "oetiker",
                     "repo": "rrdtool-1.x",
-                    "stars": 1113
+                    "stars": 1113,
+                    "topics": [
+                      "round-robin-database",
+                      "rrdtool",
+                      "time-series",
+                      "tsdb"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1525,12 +2220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A program to send nagios perf data to graphite (carbon) / statsd / librato / influxdb",
+                    "homepage": null,
                     "id": 2864214,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-07-27T19:11:24Z",
+                    "open_issues": 47,
                     "owner": "shawn-sterling",
                     "repo": "graphios",
-                    "stars": 288
+                    "stars": 288,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1541,12 +2241,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A connector which copies performancedata from Nagios / Icinga(2) / Naemon to InfluxDB",
+                    "homepage": null,
                     "id": 38066392,
                     "language": "Go",
+                    "license": "GPL-2.0",
                     "last_commit": "2022-11-26T02:30:24Z",
+                    "open_issues": 20,
                     "owner": "Griesbacher",
                     "repo": "nagflux",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "golang",
+                      "grafana",
+                      "icinga",
+                      "influxdb",
+                      "livestatus",
+                      "naemon",
+                      "nagios",
+                      "omd"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1557,12 +2271,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Script that scrapes alert statistics from Nagios and reports them to Graphite",
+                    "homepage": null,
                     "id": 13176859,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2015-01-10T18:23:15Z",
+                    "open_issues": 0,
                     "owner": "github",
                     "repo": "ledbetter",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1580,12 +2299,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A highly scalable real-time graphing system",
+                    "homepage": "http://graphite.readthedocs.org/",
                     "id": 4254338,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-10T10:03:06Z",
+                    "open_issues": 23,
                     "owner": "graphite-project",
                     "repo": "graphite-web",
-                    "stars": 6111
+                    "stars": 6111,
+                    "topics": [
+                      "django",
+                      "graphite",
+                      "graphite-components",
+                      "graphite-web",
+                      "metrics",
+                      "python",
+                      "time-series"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1596,12 +2328,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend.",
+                    "homepage": "http://graphite.readthedocs.org/",
                     "id": 4254325,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-08T08:28:07Z",
+                    "open_issues": 13,
                     "owner": "graphite-project",
                     "repo": "carbon",
-                    "stars": 1531
+                    "stars": 1531,
+                    "topics": [
+                      "carbon",
+                      "graphite",
+                      "graphite-components",
+                      "metrics",
+                      "python",
+                      "time-series"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1612,12 +2356,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PNP is an addon to Nagios which analyzes performance data provided by plugins and stores them automatically into RRD-databases.",
+                    "homepage": "docs.pnp4nagios.org",
                     "id": 560578,
                     "language": "PHP",
+                    "license": "GPL-2.0",
                     "last_commit": "2023-05-09T08:20:46Z",
+                    "open_issues": 37,
                     "owner": "lingej",
                     "repo": "pnp4nagios",
-                    "stars": 153
+                    "stars": 153,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1635,12 +2384,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adagios - Web Based Nagios Configuration",
+                    "homepage": null,
                     "id": 5330407,
                     "language": "HTML",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-11-07T12:56:00Z",
+                    "open_issues": 78,
                     "owner": "opinkerfi",
                     "repo": "adagios",
-                    "stars": 332
+                    "stars": 332,
+                    "topics": [
+                      "adagios",
+                      "django",
+                      "monitoring",
+                      "naemon",
+                      "nagios",
+                      "okconfig",
+                      "pynag",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1651,12 +2414,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NConf - Enterprise Nagios configurator - [NConf is not actively being developed anymore!]",
+                    "homepage": "http://www.nconf.org",
                     "id": 1870134,
                     "language": "PHP",
+                    "license": "GPL-2.0",
                     "last_commit": "2019-08-06T10:04:24Z",
+                    "open_issues": 28,
                     "owner": "nconf",
                     "repo": "nconf",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1667,12 +2435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios syntax and snippets for vim. ",
+                    "homepage": "https://github.com/pld-linux/vim-syntax-nagios",
                     "id": 60750367,
                     "language": "Vim Script",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-06-22T06:27:50Z",
+                    "open_issues": 0,
                     "owner": "crazy-canux",
                     "repo": "nagios.vim",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1683,12 +2456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Icinga syntax and snippets for vim. ",
+                    "homepage": "https://github.com/Icinga/icinga2/tree/master/tools/syntax/vim",
                     "id": 60957624,
                     "language": "VimL",
+                    "license": "GPL-3.0",
                     "last_commit": "2016-06-12T13:35:45Z",
+                    "open_issues": 0,
                     "owner": "crazy-canux",
                     "repo": "icinga2.vim",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1706,12 +2484,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The DokuWiki Open Source Wiki Engine",
+                    "homepage": "http://www.dokuwiki.org",
                     "id": 456930,
                     "language": "PHP",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T09:58:35Z",
+                    "open_issues": 466,
                     "owner": "dokuwiki",
                     "repo": "dokuwiki",
-                    "stars": 4708
+                    "stars": 4708,
+                    "topics": [
+                      "dokuwiki",
+                      "php",
+                      "wiki",
+                      "wiki-engine"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1729,12 +2517,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios Business Process Intelligence",
+                    "homepage": null,
                     "id": 16119597,
                     "language": "PHP",
+                    "license": "GPL-2.0",
                     "last_commit": "2017-06-19T19:59:21Z",
+                    "open_issues": 4,
                     "owner": "NagiosEnterprises",
                     "repo": "nagiosbpi",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1745,12 +2538,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Business Process AddOn for Nagios and Icinga",
+                    "homepage": null,
                     "id": 30141609,
                     "language": "Perl",
+                    "license": "GPL-2.0",
                     "last_commit": "2015-02-01T09:17:40Z",
+                    "open_issues": 0,
                     "owner": "booboo-at-gluga-de",
                     "repo": "bp-addon",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1768,12 +2566,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios SNMP Trap Interface",
+                    "homepage": null,
                     "id": 16119576,
                     "language": "HTML",
+                    "license": "GPL-2.0",
                     "last_commit": "2018-06-06T20:51:47Z",
+                    "open_issues": 11,
                     "owner": "NagiosEnterprises",
                     "repo": "nsti",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1784,12 +2587,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SNMP MIBs for Nagios",
+                    "homepage": null,
                     "id": 15980320,
                     "language": "Makefile",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-02-21T16:38:09Z",
+                    "open_issues": 1,
                     "owner": "nagios-plugins",
                     "repo": "nagios-mib",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1807,12 +2615,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A REST-like, JSON interface to Nagios",
+                    "homepage": null,
                     "id": 2595178,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2019-05-17T04:04:08Z",
+                    "open_issues": 19,
                     "owner": "zorkian",
                     "repo": "nagios-api",
-                    "stars": 588
+                    "stars": 588,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1823,12 +2636,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python modules and utilities for Nagios plugins and configuration",
+                    "homepage": "http://pynag.github.com",
                     "id": 5266135,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-03-29T17:29:24Z",
+                    "open_issues": 22,
                     "owner": "pynag",
                     "repo": "pynag",
-                    "stars": 178
+                    "stars": 178,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1839,12 +2657,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ruby API for scraping Nagios",
+                    "homepage": null,
                     "id": 758981,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2018-03-27T12:35:37Z",
+                    "open_issues": 8,
                     "owner": "railsmachine",
                     "repo": "nagiosharder",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1855,12 +2678,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios V-Shell PHP Interface",
+                    "homepage": null,
                     "id": 16080788,
                     "language": "PHP",
+                    "license": null,
                     "last_commit": "2019-11-05T23:14:06Z",
+                    "open_issues": 5,
                     "owner": "NagiosEnterprises",
                     "repo": "nagiosvshell",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1871,12 +2699,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Nagios REST Interface",
+                    "homepage": null,
                     "id": 9171066,
                     "language": "Perl",
+                    "license": null,
                     "last_commit": "2026-08-22T19:47:57Z",
+                    "open_issues": 20,
                     "owner": "mclarkson",
                     "repo": "nagrestconf",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "nagios",
+                      "nagios-api",
+                      "rest-api"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1894,12 +2731,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Add context to Nagios alerts",
+                    "homepage": "https://codeascraft.com/2014/06/06/introducing-nagios-herald/",
                     "id": 16780263,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2018-03-19T19:17:07Z",
+                    "open_issues": 13,
                     "owner": "etsy",
                     "repo": "nagios-herald",
-                    "stars": 320
+                    "stars": 320,
+                    "topics": [
+                      "non-sox"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1910,12 +2754,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Systems testing plugin for Nagios with Cucumber + Webrat + Mechanize + Net::SSH",
+                    "homepage": "http://cucumber-nagios.org/",
                     "id": 142601,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2022-10-19T07:48:35Z",
+                    "open_issues": 28,
                     "owner": "auxesis",
                     "repo": "cucumber-nagios",
-                    "stars": 255
+                    "stars": 255,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 },
@@ -1926,12 +2775,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Development repository for the nagios cookbook",
+                    "homepage": "https://supermarket.chef.io/cookbooks/nagios",
                     "id": 3720868,
                     "language": "Ruby",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-30T09:20:08Z",
+                    "open_issues": 11,
                     "owner": "sous-chefs",
                     "repo": "nagios",
-                    "stars": 125
+                    "stars": 125,
+                    "topics": [
+                      "chef",
+                      "chef-cookbook",
+                      "chef-resource",
+                      "hacktoberfest",
+                      "managed-by-terraform",
+                      "nagios"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:31:48.690Z"
                 }
@@ -1960,12 +2821,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+                "homepage": "https://influxdata.com/telegraf",
                 "id": 33258973,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:55:34Z",
+                "open_issues": 427,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17776
+                "stars": 17776,
+                "topics": [
+                  "golang",
+                  "hacktoberfest",
+                  "influxdb",
+                  "json",
+                  "kafka",
+                  "logs",
+                  "metrics",
+                  "modbus",
+                  "monitoring",
+                  "mqtt",
+                  "opcua",
+                  "t",
+                  "telegraf",
+                  "telemetry-collection",
+                  "time-series",
+                  "windows-eventlog",
+                  "xpath"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -1976,12 +2860,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exporter for machine metrics",
+                "homepage": "https://prometheus.io/",
                 "id": 9524057,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:44:41Z",
+                "open_issues": 310,
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13738
+                "stars": 13739,
+                "topics": [
+                  "host-metrics",
+                  "machine-metrics",
+                  "metrics",
+                  "node-metrics",
+                  "procfs",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "system-information",
+                  "system-metrics"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -1992,12 +2891,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " An open-source and enterprise-level monitoring system.",
+                "homepage": null,
                 "id": 55850689,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-24T09:15:56Z",
+                "open_issues": 181,
                 "owner": "open-falcon",
                 "repo": "falcon-plus",
-                "stars": 7233
+                "stars": 7233,
+                "topics": [
+                  "falcon",
+                  "falcon-ng",
+                  "grafana",
+                  "monitoring",
+                  "nightingale",
+                  "obsuite",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2008,12 +2920,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The system statistics collection daemon. Please send Pull Requests here!",
+                "homepage": "http://collectd.org",
                 "id": 3208640,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-29T12:58:43Z",
+                "open_issues": 785,
                 "owner": "collectd",
                 "repo": "collectd",
-                "stars": 3363
+                "stars": 3363,
+                "topics": [
+                  "amqp-client",
+                  "c",
+                  "collectd",
+                  "cpu-monitoring",
+                  "graphite-client",
+                  "influxdb-client",
+                  "kafka-client",
+                  "memory-utilization",
+                  "metrics",
+                  "metrics-gathering",
+                  "metrics-gathering-daemon",
+                  "metrics-server",
+                  "mqtt-client",
+                  "mqtt-server",
+                  "prometheus-exporter",
+                  "redis-client",
+                  "riemann-client",
+                  "rrdtool",
+                  "snmp",
+                  "stackdriver-agent"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2024,12 +2962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data collection framework for OpenTSDB",
+                "homepage": "http://opentsdb.net",
                 "id": 1189586,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-06-10T16:45:33Z",
+                "open_issues": 25,
                 "owner": "OpenTSDB",
                 "repo": "tcollector",
-                "stars": 510
+                "stars": 510,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2040,12 +2983,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Prometheus, but for logs.",
+                "homepage": "https://grafana.com/oss/loki",
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-29T00:24:39Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:25:58Z",
+                "open_issues": 1729,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28798
+                "stars": 28799,
+                "topics": [
+                  "cloudnative",
+                  "grafana",
+                  "hacktoberfest",
+                  "logging",
+                  "loki",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2056,12 +3011,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Logstash - transport and process your logs, events, or other data",
+                "homepage": "https://www.elastic.co/products/logstash",
                 "id": 1090311,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:47:10Z",
+                "open_issues": 2255,
                 "owner": "elastic",
                 "repo": "logstash",
-                "stars": 14927
+                "stars": 14927,
+                "topics": [
+                  "etl-framework",
+                  "java",
+                  "jruby",
+                  "logging",
+                  "real-time-processing",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2072,12 +3039,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+                "homepage": "https://www.fluentd.org",
                 "id": 1918677,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T06:57:36Z",
+                "open_issues": 136,
                 "owner": "fluent",
                 "repo": "fluentd",
-                "stars": 13581
+                "stars": 13581,
+                "topics": [
+                  "cncf",
+                  "data-collector",
+                  "fluentd",
+                  "logging",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2088,12 +3066,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash",
+                "homepage": "https://www.elastic.co/products/beats",
                 "id": 16554739,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:14:14Z",
+                "open_issues": 1051,
                 "owner": "elastic",
                 "repo": "beats",
-                "stars": 12640
+                "stars": 12640,
+                "topics": [
+                  "filebeat",
+                  "heartbeat",
+                  "metricbeat",
+                  "packetbeat",
+                  "winlogbeat"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2104,12 +3093,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+                "homepage": "https://fluentbit.io",
                 "id": 29933948,
                 "language": "C",
-                "last_commit": "2026-08-28T20:37:54Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:11:39Z",
+                "open_issues": 784,
                 "owner": "fluent",
                 "repo": "fluent-bit",
-                "stars": 8066
+                "stars": 8066,
+                "topics": [
+                  "c",
+                  "cloudnative",
+                  "data-collector",
+                  "fluent-bit",
+                  "fluentd",
+                  "forwarder",
+                  "logging",
+                  "logs",
+                  "metrics",
+                  "opentelemetry",
+                  "prometheus",
+                  "sql-queries",
+                  "stream-processing",
+                  "traces"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2120,12 +3129,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaMelody : monitoring of JavaEE applications",
+                "homepage": null,
                 "id": 37816257,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T13:25:00Z",
+                "open_issues": 39,
                 "owner": "javamelody",
                 "repo": "javamelody",
-                "stars": 3039
+                "stars": 3039,
+                "topics": [
+                  "apm",
+                  "metrics",
+                  "monitoring",
+                  "performance"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2136,12 +3155,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Tracing, Metrics and Context Propagation for applications running on the JVM",
+                "homepage": "https://kamon.io",
                 "id": 9843572,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-19T13:16:26Z",
+                "open_issues": 203,
                 "owner": "kamon-io",
                 "repo": "Kamon",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "distributed-tracing",
+                  "java",
+                  "kamon",
+                  "metrics",
+                  "monitoring",
+                  "otel",
+                  "scala",
+                  "time",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2159,12 +3193,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Prometheus monitoring system and time series database.",
+                "homepage": "https://prometheus.io/",
                 "id": 6838921,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:51:00Z",
+                "open_issues": 879,
                 "owner": "prometheus",
                 "repo": "prometheus",
-                "stars": 65878
+                "stars": 65878,
+                "topics": [
+                  "alerting",
+                  "graphing",
+                  "hacktoberfest",
+                  "metrics",
+                  "monitoring",
+                  "prometheus",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2175,12 +3222,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable datastore for metrics, events, and real-time analytics",
+                "homepage": "https://influxdata.com",
                 "id": 13124802,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:13:13Z",
+                "open_issues": 2157,
                 "owner": "influxdata",
                 "repo": "influxdb",
-                "stars": 31726
+                "stars": 31726,
+                "topics": [
+                  "database",
+                  "go",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "react",
+                  "rust",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2191,12 +3252,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+                "homepage": "https://victoriametrics.com/",
                 "id": 150954997,
                 "language": "Go",
-                "last_commit": "2026-08-28T17:38:36Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:29:57Z",
+                "open_issues": 786,
                 "owner": "VictoriaMetrics",
                 "repo": "VictoriaMetrics",
-                "stars": 17609
+                "stars": 17610,
+                "topics": [
+                  "database",
+                  "grafana",
+                  "graphite",
+                  "influxdb",
+                  "kubernetes",
+                  "monitoring",
+                  "observability",
+                  "opentelemetry",
+                  "opentsdb",
+                  "prometheus",
+                  "promql",
+                  "thanos",
+                  "tsdb"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2207,12 +3287,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI-powered next-generation open source real-time observability system.",
+                "homepage": "https://hertzbeat.apache.org/",
                 "id": 455584258,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T11:38:01Z",
+                "open_issues": 303,
                 "owner": "apache",
                 "repo": "hertzbeat",
-                "stars": 7379
+                "stars": 7380,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "alerting",
+                  "database",
+                  "grafana",
+                  "linux",
+                  "llm",
+                  "logs",
+                  "metrics",
+                  "monitor",
+                  "monitoring",
+                  "notifications",
+                  "observability",
+                  "prometheus",
+                  "self-hosted",
+                  "server",
+                  "status",
+                  "status-page",
+                  "uptime",
+                  "zabbix"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2223,12 +3329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A scalable, distributed Time Series Database.",
+                "homepage": "http://opentsdb.net",
                 "id": 865412,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2024-12-12T20:03:34Z",
+                "open_issues": 538,
                 "owner": "OpenTSDB",
                 "repo": "opentsdb",
-                "stars": 5065
+                "stars": 5065,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2239,12 +3350,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast scalable time series database",
+                "homepage": null,
                 "id": 8039659,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-05T22:27:54Z",
+                "open_issues": 141,
                 "owner": "kairosdb",
                 "repo": "kairosdb",
-                "stars": 1762
+                "stars": 1762,
+                "topics": [
+                  "java",
+                  "kairosdb",
+                  "metrics",
+                  "timeseries",
+                  "timeseries-database"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2255,12 +3377,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source, Distributed, RESTful Search Engine",
+                "homepage": "https://www.elastic.co/products/elasticsearch",
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-28T23:52:01Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:36:17Z",
+                "open_issues": 5998,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77877
+                "stars": 77877,
+                "topics": [
+                  "elasticsearch",
+                  "java",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2271,12 +3402,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Prometheus, but for logs.",
+                "homepage": "https://grafana.com/oss/loki",
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-29T00:24:39Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:25:58Z",
+                "open_issues": 1729,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28798
+                "stars": 28799,
+                "topics": [
+                  "cloudnative",
+                  "grafana",
+                  "hacktoberfest",
+                  "logging",
+                  "loki",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2287,12 +3430,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+                "homepage": "https://grafana.com/oss/tempo/",
                 "id": 236055696,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T23:16:01Z",
+                "open_issues": 166,
                 "owner": "grafana",
                 "repo": "tempo",
-                "stars": 5457
+                "stars": 5457,
+                "topics": [
+                  "distributed-tracing",
+                  "grafana"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2303,12 +3454,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaMelody : monitoring of JavaEE applications",
+                "homepage": null,
                 "id": 37816257,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T13:25:00Z",
+                "open_issues": 39,
                 "owner": "javamelody",
                 "repo": "javamelody",
-                "stars": 3039
+                "stars": 3039,
+                "topics": [
+                  "apm",
+                  "metrics",
+                  "monitoring",
+                  "performance"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2319,12 +3480,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Tracing, Metrics and Context Propagation for applications running on the JVM",
+                "homepage": "https://kamon.io",
                 "id": 9843572,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-19T13:16:26Z",
+                "open_issues": 203,
                 "owner": "kamon-io",
                 "repo": "Kamon",
-                "stars": 1426
+                "stars": 1426,
+                "topics": [
+                  "distributed-tracing",
+                  "java",
+                  "kamon",
+                  "metrics",
+                  "monitoring",
+                  "otel",
+                  "scala",
+                  "time",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2342,12 +3518,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+                "homepage": "https://grafana.com",
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T00:22:23Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:24:15Z",
+                "open_issues": 3317,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76465
+                "stars": 76465,
+                "topics": [
+                  "alerting",
+                  "analytics",
+                  "business-intelligence",
+                  "dashboard",
+                  "data-visualization",
+                  "elasticsearch",
+                  "go",
+                  "grafana",
+                  "hacktoberfest",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "mysql",
+                  "postgres",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2358,12 +3555,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prometheus Alertmanager",
+                "homepage": "https://prometheus.io",
                 "id": 11452538,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:10:00Z",
+                "open_issues": 411,
                 "owner": "prometheus",
                 "repo": "alertmanager",
-                "stars": 8598
+                "stars": 8598,
+                "topics": [
+                  "alertmanager",
+                  "deduplication",
+                  "email",
+                  "hacktoberfest",
+                  "monitoring",
+                  "notifications",
+                  "opsgenie",
+                  "pagerduty",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2374,12 +3586,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source framework for processing, monitoring, and alerting on time series data",
+                "homepage": null,
                 "id": 41681600,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-10T15:38:52Z",
+                "open_issues": 833,
                 "owner": "influxdata",
                 "repo": "kapacitor",
-                "stars": 2375
+                "stars": 2375,
+                "topics": [
+                  "kapacitor",
+                  "monitoring",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2397,12 +3618,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+                "homepage": "https://grafana.com",
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T00:22:23Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:24:15Z",
+                "open_issues": 3317,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76465
+                "stars": 76465,
+                "topics": [
+                  "alerting",
+                  "analytics",
+                  "business-intelligence",
+                  "dashboard",
+                  "data-visualization",
+                  "elasticsearch",
+                  "go",
+                  "grafana",
+                  "hacktoberfest",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "mysql",
+                  "postgres",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2413,12 +3655,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your window into all of your data",
+                "homepage": "https://www.elastic.co/products/kibana",
                 "id": 7833168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-29T00:23:47Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:38:10Z",
+                "open_issues": 14307,
                 "owner": "elastic",
                 "repo": "kibana",
-                "stars": 21270
+                "stars": 21270,
+                "topics": [
+                  "dashboards",
+                  "elasticsearch",
+                  "hacktoberfest",
+                  "kibana",
+                  "metrics",
+                  "observability",
+                  "visualizations"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             },
@@ -2429,12 +3684,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source monitoring and visualization UI for the TICK stack",
+                "homepage": "https://www.influxdata.com/time-series-platform/chronograf/",
                 "id": 66506962,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T08:39:57Z",
+                "open_issues": 50,
                 "owner": "influxdata",
                 "repo": "chronograf",
-                "stars": 1567
+                "stars": 1567,
+                "topics": [
+                  "alert",
+                  "apm",
+                  "chronograf",
+                  "dashboard",
+                  "go",
+                  "influxdb",
+                  "kapacitor",
+                  "monitoring",
+                  "react",
+                  "redux",
+                  "telegraf",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2458,12 +3731,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zipkin is a distributed tracing system",
+                "homepage": "https://zipkin.io/",
                 "id": 4576305,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T04:10:29Z",
+                "open_issues": 175,
                 "owner": "openzipkin",
                 "repo": "zipkin",
-                "stars": 17455
+                "stars": 17455,
+                "topics": [
+                  "distributed-tracing",
+                  "observability",
+                  "openzipkin",
+                  "tracing",
+                  "zipkin"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2481,12 +3765,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Developer-first error tracking and performance monitoring",
+                "homepage": "https://sentry.io",
                 "id": 873328,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:08:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:35:09Z",
+                "open_issues": 2243,
                 "owner": "getsentry",
                 "repo": "sentry",
-                "stars": 44641
+                "stars": 44644,
+                "topics": [
+                  "apm",
+                  "crash-reporting",
+                  "crash-reports",
+                  "csp-report",
+                  "devops",
+                  "django",
+                  "error-logging",
+                  "error-monitoring",
+                  "fair-source",
+                  "hacktoberfest",
+                  "monitor",
+                  "monitoring",
+                  "python",
+                  "sentry",
+                  "tag-production"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2504,12 +3809,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "APM, (Application Performance Management) tool for large-scale distributed systems. ",
+                "homepage": "https://pinpoint-apm.gitbook.io/",
                 "id": 25459400,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T02:21:54Z",
+                "open_issues": 538,
                 "owner": "pinpoint-apm",
                 "repo": "pinpoint",
-                "stars": 13861
+                "stars": 13861,
+                "topics": [
+                  "agent",
+                  "apm",
+                  "distributed-tracing",
+                  "monitoring",
+                  "performance",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2527,12 +3844,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "APM, Application Performance Monitoring System",
+                "homepage": "https://skywalking.apache.org/",
                 "id": 45721011,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T06:25:56Z",
+                "open_issues": 40,
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24932
+                "stars": 24932,
+                "topics": [
+                  "apm",
+                  "dapper",
+                  "distributed-tracing",
+                  "ebpf",
+                  "logging",
+                  "metrics",
+                  "observability",
+                  "open-telemetry",
+                  "prometheus",
+                  "service-mesh",
+                  "skywalking",
+                  "telegraf",
+                  "web-performance",
+                  "zabbix"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2550,12 +3887,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source APM: OpenTelemetry traces, metrics, and logs",
+                "homepage": "https://uptrace.dev/get/hosted/open-source-apm",
                 "id": 440841550,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-13T14:47:22Z",
+                "open_issues": 51,
                 "owner": "uptrace",
                 "repo": "uptrace",
-                "stars": 4273
+                "stars": 4273,
+                "topics": [
+                  "apm",
+                  "application-monitoring",
+                  "clickhouse",
+                  "distributed-tracing",
+                  "golang",
+                  "logs",
+                  "metrics",
+                  "monitoring",
+                  "observability",
+                  "opentelemetry",
+                  "performance-monitoring",
+                  "self-hosted",
+                  "tracing",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2579,12 +3936,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tons of devops tools for devops related project.",
+                "homepage": "http://super-devops.rtfd.io/",
                 "id": 108929556,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-09T03:43:14Z",
+                "open_issues": 17,
                 "owner": "crazy-canux",
                 "repo": "super-devops",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "automation",
+                  "development",
+                  "devops",
+                  "operation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2602,12 +3970,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tons of devops tools for devops related project.",
+                "homepage": "https://pkg.go.dev/github.com/crazy-canux/go-devops",
                 "id": 154333868,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-11T20:38:56Z",
+                "open_issues": 12,
                 "owner": "crazy-canux",
                 "repo": "go-devops",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "automation",
+                  "development",
+                  "devops",
+                  "operation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:31:48.690Z"
             }
@@ -2621,15 +4000,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:31:48.690Z",
+    "last_updated": "2026-08-29T04:38:18.657Z",
     "original_repository_info": {
       "archived": false,
+      "description": "INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.",
+      "homepage": "http://canuxcheng.com/awesome-monitoring/",
       "id": 59476603,
       "language": "Go",
+      "license": null,
       "last_commit": "2025-02-25T14:07:35Z",
+      "open_issues": 22,
       "owner": "crazy-canux",
       "repo": "awesome-monitoring",
-      "stars": 742
+      "stars": 742,
+      "topics": [
+        "apm",
+        "awesome",
+        "awesome-list",
+        "devops",
+        "elasticsearch",
+        "grafana",
+        "influxdb",
+        "kibana",
+        "logging",
+        "loki",
+        "metrics",
+        "monitoring",
+        "nagios",
+        "observability",
+        "prometheus",
+        "tracing",
+        "zabbix"
+      ]
     },
     "original_repository_sha": "e0b56bd47393fbabded8b030e50314841e24c644",
     "enhanced_repository": "enhansome/enhansome-monitoring",
