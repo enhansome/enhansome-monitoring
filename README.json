@@ -15,8 +15,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500546
-          }
+            "stars": 500854
+          },
+          "first_seen": "2026-08-29T00:31:48.690Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33632
-          }
+            "stars": 33634
+          },
+          "first_seen": "2026-08-29T00:31:48.690Z"
         }
       ],
       "title": "Overview"
@@ -54,7 +56,8 @@
                 "owner": "NagiosEnterprises",
                 "repo": "nagioscore",
                 "stars": 2040
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -76,7 +79,8 @@
                 "owner": "ganglia",
                 "repo": "monitor-core",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids.",
@@ -98,7 +102,8 @@
                 "owner": "opserver",
                 "repo": "Opserver",
                 "stars": 4566
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -116,11 +121,12 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-27T12:42:27Z",
+                "last_commit": "2026-08-29T00:21:19Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80325
-              }
+                "stars": 80340
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "netdata is a system for distributed real-time performance and health monitoring. It provides unparalleled insights, in real-time, of everything happening on the system it runs (including applications such as web and database servers), using modern interactive web dashboards.",
@@ -141,8 +147,9 @@
                 "last_commit": "2026-08-27T11:38:01Z",
                 "owner": "apache",
                 "repo": "hertzbeat",
-                "stars": 7378
-              }
+                "stars": 7379
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "HertzBeat is an open-source, real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more.",
@@ -166,11 +173,12 @@
                 "archived": false,
                 "id": 12440855,
                 "language": "C++",
-                "last_commit": "2026-08-27T15:01:24Z",
+                "last_commit": "2026-08-28T15:13:02Z",
                 "owner": "Icinga",
                 "repo": "icinga2",
                 "stars": 2233
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -192,7 +200,8 @@
                 "owner": "naemon",
                 "repo": "naemon-core",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "Naemon is the new monitoring suite that aims to be fast, stable and innovative while giving you a clear view of the state of your network and applications.",
@@ -214,7 +223,8 @@
                 "owner": "shinken-solutions",
                 "repo": "shinken",
                 "stars": 1136
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "Shinken is a monitoring framework. It's a Python Nagios® Core total rewrite enhancing flexibility and large environment management.",
@@ -232,11 +242,12 @@
                 "archived": false,
                 "id": 25678869,
                 "language": "Perl",
-                "last_commit": "2026-08-27T16:07:47Z",
+                "last_commit": "2026-08-28T09:37:17Z",
                 "owner": "centreon",
                 "repo": "centreon-plugins",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -251,7 +262,8 @@
                 "owner": "centreon-archive",
                 "repo": "centreon-engine",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "Centreon is a network, system, applicative supervision and monitoring tool.",
@@ -273,7 +285,8 @@
                 "owner": "sensu",
                 "repo": "sensu",
                 "stars": 2865
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -295,7 +308,8 @@
                 "owner": "arachnys",
                 "repo": "cabot",
                 "stars": 5675
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -319,7 +333,8 @@
                     "owner": "monitoring-plugins",
                     "repo": "monitoring-plugin-perl",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -334,7 +349,8 @@
                     "owner": "crazy-canux",
                     "repo": "arguspy",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -356,7 +372,8 @@
                     "owner": "jedda",
                     "repo": "OSX-Monitoring-Tools",
                     "stars": 332
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -378,7 +395,8 @@
                     "owner": "lausser",
                     "repo": "check_hpasm",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -393,7 +411,8 @@
                     "owner": "lausser",
                     "repo": "check_fujitsu_health",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -415,7 +434,8 @@
                     "owner": "lausser",
                     "repo": "check_nwc_health",
                     "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -437,7 +457,8 @@
                     "owner": "glensc",
                     "repo": "nagios-plugin-check_raid",
                     "stars": 144
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +473,8 @@
                     "owner": "lausser",
                     "repo": "check_tl_health",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -467,7 +489,8 @@
                     "owner": "lausser",
                     "repo": "check_sstcam",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -489,7 +512,8 @@
                     "owner": "BaldMansMojo",
                     "repo": "check_vmware_esx",
                     "stars": 122
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +528,8 @@
                     "owner": "ITRS-Group",
                     "repo": "system-addons-plugins-op5-check_vmware_api",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -526,7 +551,8 @@
                     "owner": "cirrax",
                     "repo": "openstack-nagios-plugins",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -548,7 +574,8 @@
                     "owner": "bucardo",
                     "repo": "check_postgres",
                     "stars": 602
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -563,7 +590,8 @@
                     "owner": "mzupan",
                     "repo": "nagios-plugin-mongodb",
                     "stars": 342
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -578,7 +606,8 @@
                     "owner": "lausser",
                     "repo": "check_mssql_health",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -593,7 +622,8 @@
                     "owner": "lausser",
                     "repo": "check_oracle_health",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -608,7 +638,8 @@
                     "owner": "lausser",
                     "repo": "check_mysql_health",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -623,7 +654,8 @@
                     "owner": "lausser",
                     "repo": "check_db2_health",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -645,7 +677,8 @@
                     "owner": "lausser",
                     "repo": "check_logfiles",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -660,7 +693,8 @@
                     "owner": "flackem",
                     "repo": "check_multi",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -675,7 +709,8 @@
                     "owner": "flackem",
                     "repo": "check_generic",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -690,7 +725,8 @@
                     "owner": "pewo",
                     "repo": "nagios-plugins",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -712,7 +748,8 @@
                     "owner": "matteocorti",
                     "repo": "check_ssl_cert",
                     "stars": 417
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -727,7 +764,8 @@
                     "owner": "nagios-plugins-rabbitmq",
                     "repo": "nagios-plugins-rabbitmq",
                     "stars": 194
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -742,7 +780,8 @@
                     "owner": "etsy",
                     "repo": "nagios_tools",
                     "stars": 174
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -757,7 +796,8 @@
                     "owner": "anchor",
                     "repo": "nagios-plugin-elasticsearch",
                     "stars": 109
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -772,7 +812,8 @@
                     "owner": "ceph",
                     "repo": "ceph-nagios-plugins",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -787,7 +828,8 @@
                     "owner": "jonlives",
                     "repo": "nagios-jenkins-plugin",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -802,7 +844,8 @@
                     "owner": "lausser",
                     "repo": "check_sap_health",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -817,7 +860,8 @@
                     "owner": "lausser",
                     "repo": "check_mailbox_health",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -839,7 +883,8 @@
                     "owner": "lethain",
                     "repo": "nagios_erlang",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -861,7 +906,8 @@
                     "owner": "HariSekhon",
                     "repo": "Nagios-Plugins",
                     "stars": 1152
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -876,7 +922,8 @@
                     "owner": "willixix",
                     "repo": "naglio-plugins",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -891,7 +938,8 @@
                     "owner": "MonitoringPlug",
                     "repo": "monitoringplug",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -906,7 +954,8 @@
                     "owner": "opinkerfi",
                     "repo": "nagios-plugins",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -921,7 +970,8 @@
                     "owner": "inuits",
                     "repo": "monitoring-plugins",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -936,7 +986,8 @@
                     "owner": "kumina",
                     "repo": "nagios-plugins-kumina",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -951,7 +1002,8 @@
                     "owner": "innogames",
                     "repo": "igmonplugins",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -966,7 +1018,8 @@
                     "owner": "Voxer",
                     "repo": "nagios-plugins",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -981,7 +1034,8 @@
                     "owner": "appfirst",
                     "repo": "nagios-plugins",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -996,7 +1050,8 @@
                     "owner": "AppliedTrust",
                     "repo": "nagios-plugins",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1011,7 +1066,8 @@
                     "owner": "crazy-canux",
                     "repo": "zplugin",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1036,11 +1092,12 @@
                     "archived": false,
                     "id": 4165401,
                     "language": "C++",
-                    "last_commit": "2026-08-27T18:54:41Z",
+                    "last_commit": "2026-08-28T18:20:42Z",
                     "owner": "mickem",
                     "repo": "nscp",
                     "stars": 288
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1055,7 +1112,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "nrpe",
                     "stars": 274
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1070,7 +1128,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "ncpa",
                     "stars": 208
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1081,11 +1140,12 @@
                     "archived": false,
                     "id": 616668128,
                     "language": "Go",
-                    "last_commit": "2026-08-27T13:32:25Z",
+                    "last_commit": "2026-08-28T13:34:12Z",
                     "owner": "ConSol-Monitoring",
                     "repo": "snclient",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1107,7 +1167,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "ndoutils",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1122,7 +1183,8 @@
                     "owner": "naemon",
                     "repo": "naemon-livestatus",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1137,7 +1199,8 @@
                     "owner": "shinken-monitoring",
                     "repo": "mod-livestatus",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1158,8 +1221,9 @@
                     "last_commit": "2026-08-25T09:08:21Z",
                     "owner": "gearman",
                     "repo": "gearmand",
-                    "stars": 764
-                  }
+                    "stars": 763
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1173,8 +1237,9 @@
                     "last_commit": "2026-08-27T10:16:54Z",
                     "owner": "ConSol-Monitoring",
                     "repo": "omd",
-                    "stars": 195
-                  }
+                    "stars": 194
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1189,7 +1254,8 @@
                     "owner": "sni",
                     "repo": "mod_gearman",
                     "stars": 126
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1204,7 +1270,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "nrdp",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1219,7 +1286,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "nsca",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1234,7 +1302,8 @@
                     "owner": "weiss",
                     "repo": "nsca-ng",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1249,7 +1318,8 @@
                     "owner": "ITRS-Group",
                     "repo": "monitor-merlin",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1271,7 +1341,8 @@
                     "owner": "Icinga",
                     "repo": "icingaweb2",
                     "stars": 840
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1286,7 +1357,8 @@
                     "owner": "HenriWahl",
                     "repo": "Nagstamon",
                     "stars": 458
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1297,11 +1369,12 @@
                     "archived": false,
                     "id": 366441,
                     "language": "Perl",
-                    "last_commit": "2026-08-27T09:54:05Z",
+                    "last_commit": "2026-08-28T21:36:31Z",
                     "owner": "sni",
                     "repo": "thruk",
                     "stars": 442
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1316,7 +1389,8 @@
                     "owner": "lozzd",
                     "repo": "Nagdash",
                     "stars": 292
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1331,7 +1405,8 @@
                     "owner": "NagVis",
                     "repo": "nagvis",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1346,7 +1421,8 @@
                     "owner": "shinken-monitoring",
                     "repo": "mod-webui",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1361,7 +1437,8 @@
                     "owner": "ITRS-Group",
                     "repo": "monitor-ninja",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1376,7 +1453,8 @@
                     "owner": "hecko",
                     "repo": "nagmap",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1398,7 +1476,8 @@
                     "owner": "statsd",
                     "repo": "statsd",
                     "stars": 18076
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1413,7 +1492,8 @@
                     "owner": "graphite-project",
                     "repo": "whisper",
                     "stars": 1262
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1428,7 +1508,8 @@
                     "owner": "oetiker",
                     "repo": "rrdtool-1.x",
                     "stars": 1113
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1450,7 +1531,8 @@
                     "owner": "shawn-sterling",
                     "repo": "graphios",
                     "stars": 288
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1465,7 +1547,8 @@
                     "owner": "Griesbacher",
                     "repo": "nagflux",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1480,7 +1563,8 @@
                     "owner": "github",
                     "repo": "ledbetter",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1502,7 +1586,8 @@
                     "owner": "graphite-project",
                     "repo": "graphite-web",
                     "stars": 6111
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1517,7 +1602,8 @@
                     "owner": "graphite-project",
                     "repo": "carbon",
                     "stars": 1531
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1532,7 +1618,8 @@
                     "owner": "lingej",
                     "repo": "pnp4nagios",
                     "stars": 153
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1554,7 +1641,8 @@
                     "owner": "opinkerfi",
                     "repo": "adagios",
                     "stars": 332
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1569,7 +1657,8 @@
                     "owner": "nconf",
                     "repo": "nconf",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1584,7 +1673,8 @@
                     "owner": "crazy-canux",
                     "repo": "nagios.vim",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1599,7 +1689,8 @@
                     "owner": "crazy-canux",
                     "repo": "icinga2.vim",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1620,8 +1711,9 @@
                     "last_commit": "2026-08-27T09:58:35Z",
                     "owner": "dokuwiki",
                     "repo": "dokuwiki",
-                    "stars": 4707
-                  }
+                    "stars": 4708
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1643,7 +1735,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "nagiosbpi",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1658,7 +1751,8 @@
                     "owner": "booboo-at-gluga-de",
                     "repo": "bp-addon",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1680,7 +1774,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "nsti",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1695,7 +1790,8 @@
                     "owner": "nagios-plugins",
                     "repo": "nagios-mib",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1717,7 +1813,8 @@
                     "owner": "zorkian",
                     "repo": "nagios-api",
                     "stars": 588
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1732,7 +1829,8 @@
                     "owner": "pynag",
                     "repo": "pynag",
                     "stars": 178
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1747,7 +1845,8 @@
                     "owner": "railsmachine",
                     "repo": "nagiosharder",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1762,7 +1861,8 @@
                     "owner": "NagiosEnterprises",
                     "repo": "nagiosvshell",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1777,7 +1877,8 @@
                     "owner": "mclarkson",
                     "repo": "nagrestconf",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1799,7 +1900,8 @@
                     "owner": "etsy",
                     "repo": "nagios-herald",
                     "stars": 320
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1814,7 +1916,8 @@
                     "owner": "auxesis",
                     "repo": "cucumber-nagios",
                     "stars": 255
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 },
                 {
                   "node_type": "item",
@@ -1828,8 +1931,9 @@
                     "last_commit": "2026-07-30T09:20:08Z",
                     "owner": "sous-chefs",
                     "repo": "nagios",
-                    "stars": 124
-                  }
+                    "stars": 125
+                  },
+                  "first_seen": "2026-08-29T00:31:48.690Z"
                 }
               ],
               "description": null,
@@ -1861,8 +1965,9 @@
                 "last_commit": "2026-08-26T18:55:34Z",
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17773
-              }
+                "stars": 17776
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1873,11 +1978,12 @@
                 "archived": false,
                 "id": 9524057,
                 "language": "Go",
-                "last_commit": "2026-08-27T07:33:04Z",
+                "last_commit": "2026-08-28T16:44:41Z",
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13726
-              }
+                "stars": 13738
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1892,7 +1998,8 @@
                 "owner": "open-falcon",
                 "repo": "falcon-plus",
                 "stars": 7233
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1907,7 +2014,8 @@
                 "owner": "collectd",
                 "repo": "collectd",
                 "stars": 3363
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1922,7 +2030,8 @@
                 "owner": "OpenTSDB",
                 "repo": "tcollector",
                 "stars": 510
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1933,11 +2042,12 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-28T00:18:17Z",
+                "last_commit": "2026-08-29T00:24:39Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28794
-              }
+                "stars": 28798
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1948,11 +2058,12 @@
                 "archived": false,
                 "id": 1090311,
                 "language": "Java",
-                "last_commit": "2026-08-27T13:36:36Z",
+                "last_commit": "2026-08-28T08:47:10Z",
                 "owner": "elastic",
                 "repo": "logstash",
                 "stars": 14927
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1966,8 +2077,9 @@
                 "last_commit": "2026-08-24T06:57:36Z",
                 "owner": "fluent",
                 "repo": "fluentd",
-                "stars": 13580
-              }
+                "stars": 13581
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1978,11 +2090,12 @@
                 "archived": false,
                 "id": 16554739,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:05:08Z",
+                "last_commit": "2026-08-28T19:14:14Z",
                 "owner": "elastic",
                 "repo": "beats",
                 "stars": 12640
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -1993,11 +2106,12 @@
                 "archived": false,
                 "id": 29933948,
                 "language": "C",
-                "last_commit": "2026-08-27T17:11:31Z",
+                "last_commit": "2026-08-28T20:37:54Z",
                 "owner": "fluent",
                 "repo": "fluent-bit",
-                "stars": 8065
-              }
+                "stars": 8066
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2012,7 +2126,8 @@
                 "owner": "javamelody",
                 "repo": "javamelody",
                 "stars": 3039
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2027,7 +2142,8 @@
                 "owner": "kamon-io",
                 "repo": "Kamon",
                 "stars": 1426
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "Traces, Metrics, Logs.\nMetrics\nLogs\nTraces",
@@ -2045,11 +2161,12 @@
                 "archived": false,
                 "id": 6838921,
                 "language": "Go",
-                "last_commit": "2026-08-27T20:30:26Z",
+                "last_commit": "2026-08-28T16:51:00Z",
                 "owner": "prometheus",
                 "repo": "prometheus",
-                "stars": 65863
-              }
+                "stars": 65878
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2060,11 +2177,12 @@
                 "archived": false,
                 "id": 13124802,
                 "language": "Rust",
-                "last_commit": "2026-08-25T20:37:43Z",
+                "last_commit": "2026-08-28T22:13:13Z",
                 "owner": "influxdata",
                 "repo": "influxdb",
-                "stars": 31722
-              }
+                "stars": 31726
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2075,11 +2193,12 @@
                 "archived": false,
                 "id": 150954997,
                 "language": "Go",
-                "last_commit": "2026-08-27T23:32:01Z",
+                "last_commit": "2026-08-28T17:38:36Z",
                 "owner": "VictoriaMetrics",
                 "repo": "VictoriaMetrics",
-                "stars": 17604
-              }
+                "stars": 17609
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2093,8 +2212,9 @@
                 "last_commit": "2026-08-27T11:38:01Z",
                 "owner": "apache",
                 "repo": "hertzbeat",
-                "stars": 7378
-              }
+                "stars": 7379
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2109,7 +2229,8 @@
                 "owner": "OpenTSDB",
                 "repo": "opentsdb",
                 "stars": 5065
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2124,7 +2245,8 @@
                 "owner": "kairosdb",
                 "repo": "kairosdb",
                 "stars": 1762
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2135,11 +2257,12 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-28T00:50:26Z",
+                "last_commit": "2026-08-28T23:52:01Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77874
-              }
+                "stars": 77877
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2150,11 +2273,12 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-28T00:18:17Z",
+                "last_commit": "2026-08-29T00:24:39Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28794
-              }
+                "stars": 28798
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2165,11 +2289,12 @@
                 "archived": false,
                 "id": 236055696,
                 "language": "Go",
-                "last_commit": "2026-08-27T23:17:46Z",
+                "last_commit": "2026-08-28T23:16:01Z",
                 "owner": "grafana",
                 "repo": "tempo",
                 "stars": 5457
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2184,7 +2309,8 @@
                 "owner": "javamelody",
                 "repo": "javamelody",
                 "stars": 3039
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2199,7 +2325,8 @@
                 "owner": "kamon-io",
                 "repo": "Kamon",
                 "stars": 1426
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "Some all-in-one APM service provide backend service.\nMetrics\nLogging\nTracing",
@@ -2217,11 +2344,12 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T00:46:24Z",
+                "last_commit": "2026-08-29T00:22:23Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76458
-              }
+                "stars": 76465
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2232,11 +2360,12 @@
                 "archived": false,
                 "id": 11452538,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:56:11Z",
+                "last_commit": "2026-08-28T17:10:00Z",
                 "owner": "prometheus",
                 "repo": "alertmanager",
-                "stars": 8597
-              }
+                "stars": 8598
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2251,7 +2380,8 @@
                 "owner": "influxdata",
                 "repo": "kapacitor",
                 "stars": 2375
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -2269,11 +2399,12 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T00:46:24Z",
+                "last_commit": "2026-08-29T00:22:23Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76458
-              }
+                "stars": 76465
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2284,11 +2415,12 @@
                 "archived": false,
                 "id": 7833168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T00:34:47Z",
+                "last_commit": "2026-08-29T00:23:47Z",
                 "owner": "elastic",
                 "repo": "kibana",
-                "stars": 21265
-              }
+                "stars": 21270
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             },
             {
               "node_type": "item",
@@ -2303,7 +2435,8 @@
                 "owner": "influxdata",
                 "repo": "chronograf",
                 "stars": 1567
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -2331,7 +2464,8 @@
                 "owner": "openzipkin",
                 "repo": "zipkin",
                 "stars": 17455
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -2349,11 +2483,12 @@
                 "archived": false,
                 "id": 873328,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:46:43Z",
+                "last_commit": "2026-08-29T00:08:39Z",
                 "owner": "getsentry",
                 "repo": "sentry",
-                "stars": 44629
-              }
+                "stars": 44641
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -2371,11 +2506,12 @@
                 "archived": false,
                 "id": 25459400,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:21:59Z",
+                "last_commit": "2026-08-28T02:21:54Z",
                 "owner": "pinpoint-apm",
                 "repo": "pinpoint",
                 "stars": 13861
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -2396,8 +2532,9 @@
                 "last_commit": "2026-08-26T06:25:56Z",
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24931
-              }
+                "stars": 24932
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "all-in-one",
@@ -2418,8 +2555,9 @@
                 "last_commit": "2026-08-13T14:47:22Z",
                 "owner": "uptrace",
                 "repo": "uptrace",
-                "stars": 4271
-              }
+                "stars": 4273
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": "all-in-one",
@@ -2447,7 +2585,8 @@
                 "owner": "crazy-canux",
                 "repo": "super-devops",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -2469,7 +2608,8 @@
                 "owner": "crazy-canux",
                 "repo": "go-devops",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:31:48.690Z"
             }
           ],
           "description": null,
@@ -2481,7 +2621,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:31.823Z",
+    "last_updated": "2026-08-29T00:31:48.690Z",
     "original_repository_info": {
       "archived": false,
       "id": 59476603,
@@ -2489,7 +2629,7 @@
       "last_commit": "2025-02-25T14:07:35Z",
       "owner": "crazy-canux",
       "repo": "awesome-monitoring",
-      "stars": 738
+      "stars": 742
     },
     "original_repository_sha": "e0b56bd47393fbabded8b030e50314841e24c644",
     "enhanced_repository": "enhansome/enhansome-monitoring",
