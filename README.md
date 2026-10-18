@@ -2,8 +2,8 @@
 
 > A curated list of awesome resources for monitoring tools.
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,390 | 🐛 105 | 📅 2026-09-02
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,726 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,884 | 🐛 105 | 📅 2026-09-02
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,729 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
 
 ***
 
@@ -60,7 +60,7 @@ Tranditional Data Center Monitoring tools.
 
 ### Nagios
 
-* [Nagios core github](https://github.com/NagiosEnterprises/nagioscore) ⭐ 2,054 | 🐛 213 | 🌐 C | 📅 2026-08-07 - Nagios core written in C.
+* [Nagios core github](https://github.com/NagiosEnterprises/nagioscore) ⭐ 2,056 | 🐛 213 | 🌐 C | 📅 2026-08-07 - Nagios core written in C.
 * [Nagios](https://www.nagios.org/) - Nagios Is The Industry Standard In IT Infrastructure Monitoring.
 * [Nagios enterprise](https://www.nagios.com/) - IT Infrastructure Monitoring World Class Network, Server and Log Monitoring Software.
 * [Nagios exchange](https://exchange.nagios.org/) - Nagios official exchange website.
@@ -102,14 +102,14 @@ Tranditional Data Center Monitoring tools.
 
 > netdata is a system for distributed real-time performance and health monitoring. It provides unparalleled insights, in real-time, of everything happening on the system it runs (including applications such as web and database servers), using modern interactive web dashboards.
 
-* [netdata github](https://github.com/firehol/netdata) ⭐ 80,985 | 🐛 448 | 🌐 Go | 📅 2026-10-17 - Netdata written in C.
+* [netdata github](https://github.com/firehol/netdata) ⭐ 80,998 | 🐛 452 | 🌐 Go | 📅 2026-10-18 - Netdata written in C.
 * [netdata](http://my-netdata.io/) - Get control of your servers. Simple. Effective. Awesome.
 
 ### HertzBeat
 
 > HertzBeat is an open-source, real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more.
 
-* [HertzBeat github](https://github.com/dromara/hertzbeat) ⭐ 7,431 | 🐛 247 | 🌐 Java | 📅 2026-10-16 - HertzBeat github.
+* [HertzBeat github](https://github.com/dromara/hertzbeat) ⭐ 7,432 | 🐛 251 | 🌐 Java | 📅 2026-10-18 - HertzBeat github.
 * [HertzBeat](https://www.hertzbeat.com/) - The open-source, real-time monitoring system.
 
 ***
@@ -172,7 +172,7 @@ Monitoring tools based on nagios.
 
 ### Cabot
 
-* [cabot github](https://github.com/arachnys/cabot) ⭐ 5,679 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service.
+* [cabot github](https://github.com/arachnys/cabot) ⭐ 5,680 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service.
 
 ### Server Density
 
@@ -255,7 +255,7 @@ Monitoring tools based on nagios.
 
 #### Monitoring Application
 
-* [check\_ssl\_cert](https://github.com/matteocorti/check_ssl_cert) ⭐ 418 | 🐛 17 | 🌐 Shell | 📅 2026-09-28 - For CA.
+* [check\_ssl\_cert](https://github.com/matteocorti/check_ssl_cert) ⭐ 418 | 🐛 19 | 🌐 Shell | 📅 2026-09-28 - For CA.
 * [nagios-plugins-rabbitmq](https://github.com/nagios-plugins-rabbitmq/nagios-plugins-rabbitmq) ⭐ 194 | 🐛 24 | 🌐 Perl | 📅 2024-01-04 - For rabbitmq.
 * [check\_graphite\_data.py](https://github.com/etsy/nagios_tools) ⚠️ Archived - For graphite.
 * [check\_elasticsearch.py](https://github.com/anchor/nagios-plugin-elasticsearch) ⭐ 110 | 🐛 20 | 🌐 Python | 📅 2017-08-02 - For ES.
@@ -299,10 +299,10 @@ Monitoring tools based on nagios.
 
 #### Agent
 
-* [NSCP github](https://github.com/mickem/nscp) ⭐ 290 | 🐛 43 | 🌐 C++ | 📅 2026-10-17 - NSCP source code.
+* [NSCP github](https://github.com/mickem/nscp) ⭐ 290 | 🐛 42 | 🌐 C++ | 📅 2026-10-18 - NSCP source code.
 * [NRPE github](https://github.com/NagiosEnterprises/nrpe) ⭐ 274 | 🐛 51 | 🌐 C | 📅 2026-10-08 - Nagios Remote Plugin Executor for Linux.
 * [NCPA github](https://github.com/NagiosEnterprises/ncpa) ⭐ 207 | 🐛 207 | 🌐 Python | 📅 2026-10-12 - Nagios Cross Platform Agent.
-* [SNClient github](https://github.com/ConSol-Monitoring/snclient) ⭐ 77 | 🐛 12 | 🌐 Go | 📅 2026-10-16 - SNClient source code
+* [SNClient github](https://github.com/ConSol-Monitoring/snclient) ⭐ 77 | 🐛 12 | 🌐 Go | 📅 2026-10-18 - SNClient source code
 * [NRPE\_NT SF](https://sourceforge.net/projects/nrpent/) - Nagios Remote Plugin Executor for Windows.
 * [NSCP](http://nsclient.org/) - NSClient++.
 * [SNClient](https://omd.consol.de/docs/snclient/) - SNClient - Cross Platform Agent (Linux, Windows, OSX)
@@ -318,8 +318,8 @@ Monitoring tools based on nagios.
 
 #### Distributions
 
-* [gearman github](https://github.com/gearman/gearmand) ⭐ 764 | 🐛 40 | 🌐 C++ | 📅 2026-10-14 - Gearmand source code. A gearman job server written in C++.
-* [ConSol OMD git](https://github.com/consol-monitoring/omd) ⭐ 194 | 🐛 17 | 🌐 Shell | 📅 2026-10-17 - OMD source code.
+* [gearman github](https://github.com/gearman/gearmand) ⭐ 764 | 🐛 43 | 🌐 C++ | 📅 2026-10-17 - Gearmand source code. A gearman job server written in C++.
+* [ConSol OMD git](https://github.com/consol-monitoring/omd) ⭐ 194 | 🐛 17 | 🌐 Shell | 📅 2026-10-18 - OMD source code.
 * [consol mod-gearman github](https://github.com/sni/mod_gearman) ⭐ 126 | 🐛 4 | 🌐 C | 📅 2026-09-30 - Mod-gearman source code. A gearman wroker written in C.
 * [NRDP github](https://github.com/NagiosEnterprises/nrdp) ⭐ 50 | 🐛 11 | 🌐 PHP | 📅 2026-08-14 - Nagios Remote Data Processor, as a replacement for NSCA.
 * [NSCA github](https://github.com/NagiosEnterprises/nsca) ⭐ 47 | 🐛 5 | 🌐 C | 📅 2024-08-01 - Nagios Service Check Acceptor, for nagios/naemon/icinga.
@@ -339,9 +339,9 @@ Monitoring tools based on nagios.
 
 * [icingaweb2 github](https://github.com/Icinga/icingaweb2) ⭐ 840 | 🐛 229 | 🌐 PHP | 📅 2026-10-16 - For Icinga.
 * [nagstamon github](https://github.com/HenriWahl/Nagstamon) ⭐ 466 | 🐛 141 | 🌐 Python | 📅 2026-10-13 - Nagstamon source code.
-* [consol thruk github](https://github.com/sni/Thruk) ⭐ 445 | 🐛 98 | 🌐 Perl | 📅 2026-10-17 - Thruk source code.
+* [consol thruk github](https://github.com/sni/Thruk) ⭐ 445 | 🐛 97 | 🌐 Perl | 📅 2026-10-18 - Thruk source code.
 * [nagdash github](https://github.com/lozzd/Nagdash) ⭐ 292 | 🐛 24 | 🌐 PHP | 📅 2020-04-17 - Dashboard interface for nagios.
-* [nagvis github](https://github.com/NagVis/nagvis) ⭐ 122 | 🐛 76 | 🌐 PHP | 📅 2026-09-28 - Nagvis source code.
+* [nagvis github](https://github.com/NagVis/nagvis) ⭐ 122 | 🐛 77 | 🌐 PHP | 📅 2026-10-18 - Nagvis source code.
 * [mod-webui github](https://github.com/shinken-monitoring/mod-webui) ⭐ 79 | 🐛 25 | 🌐 JavaScript | 📅 2025-01-10 - For Shinken.
 * [op5 Ninja github](https://github.com/op5/ninja) ⭐ 31 | 🐛 12 | 🌐 PHP | 📅 2026-10-12 - Ninja source code.
 * [nagmap github](https://github.com/hecko/nagmap/) ⭐ 27 | 🐛 0 | 🌐 PHP | 📅 2018-06-25 - Integration of nagios/icinga into google maps.
@@ -356,7 +356,7 @@ Monitoring tools based on nagios.
 
 #### Metric Storage
 
-* [statsd github](https://github.com/etsy/statsd) ⭐ 18,072 | 🐛 91 | 🌐 JavaScript | 📅 2025-05-20 - Daemon for easy but powerful stats aggregation.
+* [statsd github](https://github.com/etsy/statsd) ⭐ 18,073 | 🐛 91 | 🌐 JavaScript | 📅 2025-05-20 - Daemon for easy but powerful stats aggregation.
 * [graphite-whisper github](https://github.com/graphite-project/whisper) ⭐ 1,261 | 🐛 8 | 🌐 Python | 📅 2025-12-01 - Graphite whisper.
 * [rrdtool github](https://github.com/oetiker/rrdtool-1.x) ⭐ 1,120 | 🐛 168 | 🌐 C | 📅 2026-08-07 - Rrdtool source code.
 * [rrdtool](http://oss.oetiker.ch/rrdtool/) - Round Robin Database Tool, store perfomance data.
@@ -369,7 +369,7 @@ Monitoring tools based on nagios.
 
 #### Metric Graphing
 
-* [Graphite web github](https://github.com/graphite-project/graphite-web) ⭐ 6,130 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-13 - Graphite web.
+* [Graphite web github](https://github.com/graphite-project/graphite-web) ⭐ 6,131 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-13 - Graphite web.
 * [Graphite carbon github ](https://github.com/graphite-project/carbon) ⭐ 1,531 | 🐛 12 | 🌐 Python | 📅 2026-09-30 - Graphite carbon.
 * [pnp4nagios github](https://github.com/lingej/pnp4nagios) ⭐ 153 | 🐛 37 | 🌐 PHP | 📅 2023-05-09 - Php4nagios source code.
 * [nagiosgraph](http://nagiosgraph.sourceforge.net/) - Create graphs and store data in rrdtool.
@@ -387,7 +387,7 @@ Monitoring tools based on nagios.
 
 #### Procedure
 
-* [dokuwiki github](https://github.com/splitbrain/dokuwiki) ⭐ 4,727 | 🐛 485 | 🌐 PHP | 📅 2026-09-29 - Dokuwiki source code.
+* [dokuwiki github](https://github.com/splitbrain/dokuwiki) ⭐ 4,729 | 🐛 485 | 🌐 PHP | 📅 2026-09-29 - Dokuwiki source code.
 * [dokuwiki](https://www.dokuwiki.org/dokuwiki/) - Dokuwiki.
 
 #### Business Process Intelligence
@@ -443,24 +443,24 @@ Traces, Metrics, Logs.
 
 Metrics
 
-* [telegraf github](https://github.com/influxdata/telegraf) ⭐ 17,864 | 🐛 443 | 🌐 Go | 📅 2026-10-16 - TICK stack, The plugin-driven server agent for collecting & reporting metrics.
+* [telegraf github](https://github.com/influxdata/telegraf) ⭐ 17,867 | 🐛 444 | 🌐 Go | 📅 2026-10-16 - TICK stack, The plugin-driven server agent for collecting & reporting metrics.
 * [node-exporter github](https://github.com/prometheus/node_exporter) ⭐ 13,854 | 🐛 324 | 🌐 Go | 📅 2026-10-15 - Prometheus stack, Exporter for machine metrics.
 * [falcon-plus github](https://github.com/open-falcon/falcon-plus) ⚠️ Archived - An open-source and enterprise-level monitoring system.
-* [collectd github](https://github.com/collectd/collectd) ⭐ 3,371 | 🐛 790 | 🌐 C | 📅 2026-05-29 - collectd written in C.
+* [collectd github](https://github.com/collectd/collectd) ⭐ 3,370 | 🐛 790 | 🌐 C | 📅 2026-05-29 - collectd written in C.
 * [tcollector github](https://github.com/OpenTSDB/tcollector) ⭐ 509 | 🐛 25 | 🌐 Python | 📅 2024-06-10 - Data collection framework for OpenTSDB
 * [collectd](http://collectd.org/) - The system statistics collection daemon.
 
 Logs
 
-* [promtail github](https://github.com/grafana/loki) ⭐ 29,032 | 🐛 1,065 | 🌐 Go | 📅 2026-10-17 - log agent for loki.
+* [promtail github](https://github.com/grafana/loki) ⭐ 29,037 | 🐛 1,086 | 🌐 Go | 📅 2026-10-18 - log agent for loki.
 * [logstash github](https://github.com/elastic/logstash) ⭐ 14,966 | 🐛 2,255 | 🌐 Java | 📅 2026-10-16 - Transport and process your logs, events, or other data, Elastic stack.
-* [fluent github](https://github.com/fluent/fluentd) ⭐ 13,609 | 🐛 123 | 🌐 Ruby | 📅 2026-10-16 - Fluentd is an open-source logging solution to unify data collection and consumption.
-* [beats github](https://github.com/elastic/beats) ⭐ 12,651 | 🐛 1,085 | 🌐 Go | 📅 2026-10-17 - Lightweight shippers for Elasticsearch & Logstash, Elastic stack.
-* [fluent-bit](https://github.com/fluent/fluent-bit) ⭐ 8,160 | 🐛 801 | 🌐 C | 📅 2026-10-17 - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows.
+* [fluent github](https://github.com/fluent/fluentd) ⭐ 13,610 | 🐛 124 | 🌐 Ruby | 📅 2026-10-18 - Fluentd is an open-source logging solution to unify data collection and consumption.
+* [beats github](https://github.com/elastic/beats) ⭐ 12,651 | 🐛 1,090 | 🌐 Go | 📅 2026-10-18 - Lightweight shippers for Elasticsearch & Logstash, Elastic stack.
+* [fluent-bit](https://github.com/fluent/fluent-bit) ⭐ 8,161 | 🐛 805 | 🌐 C | 📅 2026-10-18 - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows.
 
 Traces
 
-* [javamelody github](https://github.com/javamelody/javamelody) ⭐ 3,043 | 🐛 40 | 🌐 Java | 📅 2026-10-10 - The source code.
+* [javamelody github](https://github.com/javamelody/javamelody) ⭐ 3,044 | 🐛 40 | 🌐 Java | 📅 2026-10-10 - The source code.
 * [kamon github](https://github.com/kamon-io/Kamon) ⭐ 1,427 | 🐛 207 | 🌐 Scala | 📅 2026-09-03 - The source code.
 * [new relic github](https://github.com/newrelic) - New relic written in Ruby.
 
@@ -470,10 +470,10 @@ Some all-in-one APM service provide backend service.
 
 Metrics
 
-* [prometheus github](https://github.com/prometheus/prometheus) ⭐ 66,606 | 🐛 985 | 🌐 Go | 📅 2026-10-16 - Prometheus stack.
-* [influxdata github](https://github.com/influxdata/influxdb) ⭐ 31,767 | 🐛 2,179 | 🌐 Rust | 📅 2026-10-15 - TICK stack.
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/) ⭐ 17,878 | 🐛 782 | 🌐 Go | 📅 2026-10-17 - VictoriaMetrics stack.
-* [hertzbeat github](https://github.com/dromara/hertzbeat) ⭐ 7,431 | 🐛 247 | 🌐 Java | 📅 2026-10-16 - An open-source, real-time monitoring system with custom-monitor and agentless.
+* [prometheus github](https://github.com/prometheus/prometheus) ⭐ 66,623 | 🐛 990 | 🌐 Go | 📅 2026-10-18 - Prometheus stack.
+* [influxdata github](https://github.com/influxdata/influxdb) ⭐ 31,770 | 🐛 2,179 | 🌐 Rust | 📅 2026-10-15 - TICK stack.
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/) ⭐ 17,882 | 🐛 782 | 🌐 Go | 📅 2026-10-17 - VictoriaMetrics stack.
+* [hertzbeat github](https://github.com/dromara/hertzbeat) ⭐ 7,432 | 🐛 251 | 🌐 Java | 📅 2026-10-18 - An open-source, real-time monitoring system with custom-monitor and agentless.
 * [OpenTSDB github](https://github.com/OpenTSDB/opentsdb) ⭐ 5,065 | 🐛 541 | 🌐 Java | 📅 2024-12-12 - OpenTSDB source code.
 * [kairosDB github](https://github.com/kairosdb/kairosdb) ⭐ 1,761 | 🐛 141 | 🌐 Java | 📅 2026-03-05 - KairosDB source code.
 * [influxdata](https://influxdata.com) - influxdb, written in go.
@@ -483,30 +483,30 @@ Metrics
 
 Logging
 
-* [elasticsearch github](https://github.com/elastic/elasticsearch) ⭐ 78,294 | 🐛 6,194 | 🌐 Java | 📅 2026-10-17 - Elastic stack.
-* [loki github](https://github.com/grafana/loki) ⭐ 29,032 | 🐛 1,065 | 🌐 Go | 📅 2026-10-17 - Loki: like Prometheus, but for logs.
+* [elasticsearch github](https://github.com/elastic/elasticsearch) ⭐ 78,302 | 🐛 6,203 | 🌐 Java | 📅 2026-10-18 - Elastic stack.
+* [loki github](https://github.com/grafana/loki) ⭐ 29,037 | 🐛 1,086 | 🌐 Go | 📅 2026-10-18 - Loki: like Prometheus, but for logs.
 * [elasticsearch](https://www.elastic.co/cn/products/elasticsearch) - Open Source, Distributed, RESTful Search Engine, written in java.
 
 Tracing
 
-* [tempo github](https://github.com/grafana/tempo) ⭐ 5,536 | 🐛 178 | 🌐 Go | 📅 2026-10-17 - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-* [javamelody github](https://github.com/javamelody/javamelody) ⭐ 3,043 | 🐛 40 | 🌐 Java | 📅 2026-10-10 - The source code.
+* [tempo github](https://github.com/grafana/tempo) ⭐ 5,538 | 🐛 178 | 🌐 Go | 📅 2026-10-18 - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+* [javamelody github](https://github.com/javamelody/javamelody) ⭐ 3,044 | 🐛 40 | 🌐 Java | 📅 2026-10-10 - The source code.
 * [kamon github](https://github.com/kamon-io/Kamon) ⭐ 1,427 | 🐛 207 | 🌐 Scala | 📅 2026-09-03 - The source code.
 * [new relic github](https://github.com/newrelic) - New relic written in Ruby.
 
 ### Alerting
 
-* [grafana github](https://github.com/grafana/grafana) ⭐ 77,333 | 🐛 3,341 | 🌐 TypeScript | 📅 2026-10-17 - Grafana alerting.
-* [alertmanager github](https://github.com/prometheus/alertmanager) ⭐ 8,658 | 🐛 403 | 🌐 Go | 📅 2026-10-16 - Prometheus stack, Prometheus Alertmanager, written in go.
-* [kapacitor github](https://github.com/influxdata/kapacitor) ⭐ 2,376 | 🐛 833 | 🌐 Go | 📅 2026-10-16 - TICK stack, written in go.
+* [grafana github](https://github.com/grafana/grafana) ⭐ 77,347 | 🐛 3,343 | 🌐 TypeScript | 📅 2026-10-18 - Grafana alerting.
+* [alertmanager github](https://github.com/prometheus/alertmanager) ⭐ 8,660 | 🐛 403 | 🌐 Go | 📅 2026-10-16 - Prometheus stack, Prometheus Alertmanager, written in go.
+* [kapacitor github](https://github.com/influxdata/kapacitor) ⭐ 2,375 | 🐛 833 | 🌐 Go | 📅 2026-10-16 - TICK stack, written in go.
 * [x-pack](https://www.elastic.co/cn/products/x-pack) - Elastic stack.
 * [Bosun](http://bosun.org/) - Time Series Alerting Framework.
 * [Bosun github](https://github.com/bosun-monitor) - Bosun written in Go.
 
 ### Dashboard
 
-* [grafana github](https://github.com/grafana/grafana) ⭐ 77,333 | 🐛 3,341 | 🌐 TypeScript | 📅 2026-10-17 - Grafana stack.
-* [kibana github](https://github.com/elastic/kibana) ⭐ 21,315 | 🐛 14,855 | 🌐 TypeScript | 📅 2026-10-17 - Elastic stack.
+* [grafana github](https://github.com/grafana/grafana) ⭐ 77,347 | 🐛 3,343 | 🌐 TypeScript | 📅 2026-10-18 - Grafana stack.
+* [kibana github](https://github.com/elastic/kibana) ⭐ 21,317 | 🐛 14,902 | 🌐 TypeScript | 📅 2026-10-18 - Elastic stack.
 * [chronograf github](https://github.com/influxdata/chronograf) ⭐ 1,567 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-15 - TICK stack.
 
 ***
@@ -524,7 +524,7 @@ OpenCensus and OpenTracing have merged to form OpenTelemetry.
 
 ### Zipkin
 
-* [zipkin github](https://github.com/openzipkin/zipkin) ⭐ 17,467 | 🐛 176 | 🌐 Java | 📅 2026-08-06 - A distributed tracing system.
+* [zipkin github](https://github.com/openzipkin/zipkin) ⭐ 17,469 | 🐛 176 | 🌐 Java | 📅 2026-08-06 - A distributed tracing system.
 
 ### Jaeger
 
@@ -533,7 +533,7 @@ OpenCensus and OpenTracing have merged to form OpenTelemetry.
 
 ### Sentry
 
-* [Sentry github](https://github.com/getsentry/sentry) ⭐ 45,591 | 🐛 2,327 | 🌐 Python | 📅 2026-10-17 - Sentry is cross-platform application monitoring, with a focus on error reporting.
+* [Sentry github](https://github.com/getsentry/sentry) ⭐ 45,596 | 🐛 2,320 | 🌐 Python | 📅 2026-10-18 - Sentry is cross-platform application monitoring, with a focus on error reporting.
 * [Sentry](https://sentry.io/welcome/) - Sentry provides open-source and hosted error monitoring that helps all software
   teams discover, triage, and prioritize errors in real-time.
 
@@ -545,14 +545,14 @@ OpenCensus and OpenTracing have merged to form OpenTelemetry.
 
 all-in-one
 
-* [skywalking github](https://github.com/apache/skywalking) ⭐ 24,970 | 🐛 30 | 🌐 Java | 📅 2026-10-17
+* [skywalking github](https://github.com/apache/skywalking) ⭐ 24,971 | 🐛 30 | 🌐 Java | 📅 2026-10-18
 * [skywalking](https://skywalking.apache.org/) - Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures.
 
 ### Uptrace
 
 all-in-one
 
-* [Uptrace github](https://github.com/uptrace/uptrace) ⭐ 4,304 | 🐛 56 | 🌐 Go | 📅 2026-10-08
+* [Uptrace github](https://github.com/uptrace/uptrace) ⭐ 4,305 | 🐛 57 | 🌐 Go | 📅 2026-10-08
 * [Uptrace](https://uptrace.dev/get/open-source-apm.html) - application performance monitoring tool that supports distributed tracing, metrics, and logs. You can use it to monitor applications and set up automatic alerts to receive notifications via email, Slack, Telegram, and more.
 
 ***
@@ -597,4 +597,4 @@ all-in-one
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
